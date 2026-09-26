@@ -9,7 +9,9 @@ COPY api/ ./api/
 COPY models/ ./models/
 
 ENV MODEL_PATH=/app/models/loan_approval_pipeline.joblib
+ENV PORT=8080
 
-EXPOSE 8000
+EXPOSE 8080
 
-CMD ["uvicorn", "api.main:app", "--host", "0.0.0.0", "--port", "8000"]
+# Use shell form or ${PORT} environment variable dynamically
+CMD exec uvicorn api.main:app --host 0.0.0.0 --port ${PORT}
