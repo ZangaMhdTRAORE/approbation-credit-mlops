@@ -94,13 +94,13 @@ jobs:
           docker push "${IMAGE}"
 
       - name: Deploy to Cloud Run
-              id: deploy
-              uses: google-github-actions/deploy-cloudrun@v3
-              with:
-                service: ${{ env.SERVICE }}
-                region: ${{ env.REGION }}
-                image: ${{ env.IMAGE }}
-                flags: '--allow-unauthenticated'
+        id: deploy
+        uses: google-github-actions/deploy-cloudrun@v3
+        with:
+          service: ${{ env.SERVICE }}
+          region: ${{ env.REGION }}
+          image: ${{ env.IMAGE }}
+          flags: '--allow-unauthenticated'
 
       - name: Health check
         env:
