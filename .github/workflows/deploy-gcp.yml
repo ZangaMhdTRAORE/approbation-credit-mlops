@@ -38,7 +38,7 @@ jobs:
 
       - name: Run tests
         run: |
-          pytest -v
+          python -m pytest -v
 
       - name: Authenticate to Google Cloud
         uses: google-github-actions/auth@v3
