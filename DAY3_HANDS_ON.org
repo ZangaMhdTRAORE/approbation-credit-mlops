@@ -1,0 +1,520 @@
+* DAY 3 — HANDS-ON CI/CD + CLOUD DEPLOYMENT
+
+** Objectif
+
+Transformer notre Loan Approval App en application testée et construite automatiquement.
+
+Flux cible :
+
+#+BEGIN_EXAMPLE
+Code Change
+→ Git Push
+→ GitHub Actions
+→ Tests
+→ Quality Gate
+→ Docker Build
+→ Container Registry
+→ Cloud Run
+→ Health Check
+#+END_EXAMPLE
+
+** 1. Préparer l'environnement local
+
+#+BEGIN_SRC bash
+python -m venv .venv
+source .venv/bin/activate
+
+pip install -r requirements.txt
+#+END_SRC
+
+Sous Windows PowerShell :
+
+#+BEGIN_SRC powershell
+python -m venv .venv
+.venv\Scripts\Activate.ps1
+
+pip install -r requirements.txt
+#+END_SRC
+
+** 2. Entraîner le modèle du workshop
+
+#+BEGIN_SRC bash
+python -m src.train
+#+END_SRC
+
+Résultat attendu :
+
+#+BEGIN_EXAMPLE
+models/
+├── loan_approval_pipeline.joblib
+└── metrics.json
+#+END_EXAMPLE
+
+Afficher les métriques :
+
+#+BEGIN_SRC bash
+cat models/metrics.json
+#+END_SRC
+
+** 3. Lancer l'API
+
+#+BEGIN_SRC bash
+uvicorn api.main:app --reload
+#+END_SRC
+
+Tester :
+
+#+BEGIN_SRC bash
+curl http://127.0.0.1:8000/health
+#+END_SRC
+
+Documentation :
+
+#+BEGIN_EXAMPLE
+http://127.0.0.1:8000/docs
+#+END_EXAMPLE
+
+** 4. Premier test pytest
+
+#+BEGIN_SRC bash
+pytest -v
+#+END_SRC
+
+Le projet contient quatre catégories de tests :
+
+#+BEGIN_EXAMPLE
+tests/test_data.py
+→ qualité et contrat des données
+
+tests/test_preprocessing.py
+→ transformations ML
+
+tests/test_model.py
+→ chargement, prédiction, performance minimale
+
+tests/test_api.py
+→ contrat HTTP
+#+END_EXAMPLE
+
+** 5. Faire volontairement échouer un test
+
+Dans :
+
+#+BEGIN_EXAMPLE
+tests/test_model.py
+#+END_EXAMPLE
+
+changer temporairement :
+
+#+BEGIN_SRC python
+assert metrics["f1_approved"] >= 0.50
+#+END_SRC
+
+en :
+
+#+BEGIN_SRC python
+assert metrics["f1_approved"] >= 0.90
+#+END_SRC
+
+Puis :
+
+#+BEGIN_SRC bash
+pytest -v
+#+END_SRC
+
+Résultat :
+
+#+BEGIN_EXAMPLE
+FAIL
+#+END_EXAMPLE
+
+Question :
+
+Pourquoi voulons-nous qu'un pipeline CI s'arrête dans cette situation ?
+
+Remettre ensuite le seuil à :
+
+#+BEGIN_SRC python
+0.50
+#+END_SRC
+
+** 6. Quality Gate indépendant
+
+Exécuter :
+
+#+BEGIN_SRC bash
+python scripts/quality_gate.py
+#+END_SRC
+
+Résultat attendu :
+
+#+BEGIN_EXAMPLE
+F1 approuvé : ...
+Seuil minimum : 0.50
+QUALITY GATE: PASS
+#+END_EXAMPLE
+
+Principe :
+
+#+BEGIN_EXAMPLE
+Metric
+→ Threshold
+→ PASS / FAIL
+#+END_EXAMPLE
+
+** 7. Construire l'image Docker
+
+#+BEGIN_SRC bash
+docker build -t loan-approval-api:day3 .
+#+END_SRC
+
+Lancer :
+
+#+BEGIN_SRC bash
+docker run --rm -p 8000:8000 loan-approval-api:day3
+#+END_SRC
+
+Tester :
+
+#+BEGIN_SRC bash
+curl http://localhost:8000/health
+#+END_SRC
+
+** 8. Initialiser Git
+
+#+BEGIN_SRC bash
+git init
+
+git add .
+
+git commit -m "Day 3 - add tests and CI"
+#+END_SRC
+
+Créer un repository GitHub puis :
+
+#+BEGIN_SRC bash
+git branch -M main
+
+git remote add origin <URL_DU_REPOSITORY>
+
+git push -u origin main
+#+END_SRC
+
+** 9. Comprendre le workflow CI
+
+Fichier :
+
+#+BEGIN_EXAMPLE
+.github/workflows/ci.yml
+#+END_EXAMPLE
+
+Pipeline :
+
+#+BEGIN_EXAMPLE
+Checkout
+→ Setup Python
+→ Install Dependencies
+→ Train Workshop Model
+→ Pytest
+→ Quality Gate
+→ Docker Build
+#+END_EXAMPLE
+
+Le workflow se déclenche sur :
+
+#+BEGIN_EXAMPLE
+push main
+OU
+pull_request main
+#+END_EXAMPLE
+
+GitHub recommande explicitement de configurer la version Python dans le workflow plutôt que de dépendre de la version présente par défaut sur le runner.
+
+** 10. Provoquer un échec du CI
+
+Créer une branche :
+
+#+BEGIN_SRC bash
+git checkout -b break-the-api
+#+END_SRC
+
+Dans :
+
+#+BEGIN_EXAMPLE
+api/main.py
+#+END_EXAMPLE
+
+modifier temporairement :
+
+#+BEGIN_SRC python
+return {"status": "ok", "model_loaded": True}
+#+END_SRC
+
+en :
+
+#+BEGIN_SRC python
+return {"status": "broken", "model_loaded": True}
+#+END_SRC
+
+Puis :
+
+#+BEGIN_SRC bash
+git add api/main.py
+
+git commit -m "Break health endpoint"
+
+git push -u origin break-the-api
+#+END_SRC
+
+Créer une Pull Request.
+
+Observer :
+
+#+BEGIN_EXAMPLE
+GitHub Actions
+→ test_health
+→ FAIL
+#+END_EXAMPLE
+
+Le CI vient d'empêcher une modification cassée de passer silencieusement.
+
+** 11. Corriger et relancer
+
+Remettre :
+
+#+BEGIN_SRC python
+return {"status": "ok", "model_loaded": True}
+#+END_SRC
+
+Puis :
+
+#+BEGIN_SRC bash
+git add api/main.py
+
+git commit -m "Fix health endpoint"
+
+git push
+#+END_SRC
+
+GitHub relance automatiquement le workflow.
+
+Résultat attendu :
+
+#+BEGIN_EXAMPLE
+PASS
+#+END_EXAMPLE
+
+** 12. Tagger une image avec le commit
+
+Dans GitHub Actions :
+
+#+BEGIN_SRC yaml
+docker build \
+  -t loan-approval-api:${{ github.sha }} \
+  .
+#+END_SRC
+
+Principe :
+
+#+BEGIN_EXAMPLE
+Git Commit
+→ github.sha
+→ Docker Image Tag
+#+END_EXAMPLE
+
+Cela améliore la traçabilité.
+
+** 13. Bonus : déploiement GCP Cloud Run
+
+Le repository contient :
+
+#+BEGIN_EXAMPLE
+.github/workflows/deploy-gcp.yml
+#+END_EXAMPLE
+
+Architecture :
+
+#+BEGIN_EXAMPLE
+GitHub
+→ Workload Identity Federation
+→ Artifact Registry
+→ Cloud Run
+→ /health
+#+END_EXAMPLE
+
+Le workflow utilise :
+
+#+BEGIN_EXAMPLE
+google-github-actions/auth@v3
+google-github-actions/deploy-cloudrun@v3
+#+END_EXAMPLE
+
+** 14. Prérequis GCP
+
+Créer un projet GCP et activer au minimum :
+
+#+BEGIN_SRC bash
+gcloud services enable \
+  run.googleapis.com \
+  artifactregistry.googleapis.com \
+  iamcredentials.googleapis.com
+#+END_SRC
+
+Créer le repository Docker :
+
+#+BEGIN_SRC bash
+gcloud artifacts repositories create mlops-images \
+  --repository-format=docker \
+  --location=us-central1
+#+END_SRC
+
+** 15. Authentification GitHub → GCP
+
+Pour le hands-on, préférer Workload Identity Federation plutôt qu'une clé JSON longue durée.
+
+Le workflow attend :
+
+#+BEGIN_EXAMPLE
+GCP_PROJECT_ID
+
+GCP_WORKLOAD_IDENTITY_PROVIDER
+
+GCP_SERVICE_ACCOUNT
+#+END_EXAMPLE
+
+Les valeurs sensibles ou spécifiques à l'environnement ne doivent pas être écrites directement dans le code.
+
+** 16. Service Cloud Run public pour le workshop
+
+Le workflow fait un health check HTTP après le déploiement.
+
+Pour simplifier le workshop, rendre le service public une seule fois au niveau de la configuration Cloud Run.
+
+Ne pas utiliser le pipeline CI/CD pour modifier continuellement la politique d'accès du service.
+
+** 17. Déploiement
+
+Une fois les secrets/configurations GitHub définis :
+
+#+BEGIN_EXAMPLE
+push main
+→ tests
+→ build image
+→ push Artifact Registry
+→ deploy Cloud Run
+→ GET /health
+#+END_EXAMPLE
+
+** 18. Exercice final
+
+Ajouter un nouvel endpoint :
+
+#+BEGIN_SRC text
+GET /version
+#+END_SRC
+
+Réponse :
+
+#+BEGIN_SRC json
+{
+  "app": "loan-approval-api",
+  "version": "1.0.0"
+}
+#+END_SRC
+
+Travail demandé :
+
+1. Ajouter l'endpoint.
+2. Ajouter un test pytest.
+3. Vérifier localement.
+4. Créer une branche.
+5. Faire un push.
+6. Observer GitHub Actions.
+7. Merger uniquement si le CI passe.
+
+** 19. Challenge
+
+Faire volontairement échouer le quality gate.
+
+Modifier :
+
+#+BEGIN_SRC python
+MIN_F1_APPROVED = 0.90
+#+END_SRC
+
+Observer :
+
+#+BEGIN_EXAMPLE
+Tests
+→ PASS
+
+Quality Gate
+→ FAIL
+
+Docker Build
+→ NON EXÉCUTÉ
+#+END_EXAMPLE
+
+Question :
+
+Pourquoi est-il utile de distinguer :
+
+#+BEGIN_EXAMPLE
+Software Tests
+→ Est-ce que le système fonctionne ?
+
+Model Quality Gate
+→ Est-ce que le modèle respecte notre critère minimum ?
+#+END_EXAMPLE
+
+** 20. Résultat final
+
+À la fin du hands-on :
+
+#+BEGIN_EXAMPLE
+Developer
+→ Branch
+→ Pull Request
+→ CI
+→ Tests
+→ Model Quality Gate
+→ Docker Build
+→ Merge
+→ Registry
+→ Deployment
+→ Health Check
+#+END_EXAMPLE
+
+** 21. Transition Day 4
+
+Notre application est maintenant :
+
+#+BEGIN_EXAMPLE
+versionnée
+→ testée
+→ construite
+→ déployable
+#+END_EXAMPLE
+
+Mais après le déploiement :
+
+#+BEGIN_EXAMPLE
+Que se passe-t-il avec les données réelles ?
+
+Le modèle reste-t-il performant ?
+
+Les données changent-elles ?
+
+L'API rencontre-t-elle des erreurs ?
+#+END_EXAMPLE
+
+Day 4 :
+
+#+BEGIN_EXAMPLE
+Production
+→ Logging
+→ Monitoring
+→ Drift
+→ Alerting
+→ Retraining
+#+END_EXAMPLE

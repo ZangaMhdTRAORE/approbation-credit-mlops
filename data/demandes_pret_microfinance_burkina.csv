@@ -1,0 +1,1004 @@
+id_demande,age,sexe,statut_matrimonial,nombre_personnes_a_charge,profession,revenu_mensuel_cfa,anciennete_emploi_annees,region,montant_demande_cfa,duree_pret_mois,historique_credit,decision
+995,60,F,marié,3,artisan,788779,15,Hauts-Bassins,805724,36,aucun,approuvé
+388,55,F,divorcé,7,sans_emploi,40805,0,Sahel,1847001,12,aucun,rejeté
+250,62,M,veuf,2,étudiant,32743,0,Nord,760644,24,aucun,rejeté
+848,30,F,célibataire,6,autre,408350,15,Hauts-Bassins,1818828,18,mauvais,approuvé
+352,56,M,célibataire,0,agriculteur,603370,2,Boucle du Mouhoun,1621356,24,bon,rejeté
+145,41,F,célibataire,3,enseignant,511403,24,Hauts-Bassins,1477120,12,mauvais,rejeté
+652,30,F,divorcé,1,enseignant,506336,5,Centre-Ouest,1048607,3,aucun,approuvé
+190,46,F,marié,4,autre,419504,8,Centre,53191,3,aucun,approuvé
+795,62,F,marié,6,autre,332926,0,Est,409267,12,aucun,approuvé
+208,39,F,célibataire,5,artisan,215006,3,Sahel,1156351,24,bon,approuvé
+870,21,F,divorcé,4,artisan,291831,8,Hauts-Bassins,774410,3,aucun,approuvé
+950,41,F,marié,7,étudiant,44278,0,Centre-Ouest,65141,6,mauvais,rejeté
+825,34,M,marié,3,agriculteur,80136,19,Hauts-Bassins,895279,6,bon,rejeté
+297,55,F,marié,8,sans_emploi,26033,0,Centre,1901249,24,mauvais,approuvé
+123,23,M,veuf,4,agriculteur,165991,12,Centre-Ouest,576684,12,aucun,rejeté
+361,30,M,marié,7,étudiant,58712,0,Nord,345866,6,mauvais,rejeté
+656,37,M,veuf,7,artisan,318026,15,Hauts-Bassins,599308,24,mauvais,rejeté
+247,65,M,veuf,7,agriculteur,651004,5,Centre,1509501,3,bon,approuvé
+189,38,F,veuf,6,artisan,50749,3,Hauts-Bassins,1398207,18,aucun,rejeté
+966,55,F,divorcé,6,agriculteur,207644,14,Centre,1867397,36,bon,rejeté
+418,61,M,divorcé,8,fonctionnaire,431373,10,Centre-Ouest,239073,6,aucun,rejeté
+496,36,F,divorcé,2,étudiant,23432,0,Est,634718,3,bon,approuvé
+406,21,M,marié,4,fonctionnaire,480453,8,Boucle du Mouhoun,1927954,6,mauvais,approuvé
+400,52,F,veuf,7,agriculteur,566249,17,Centre,1879310,18,bon,rejeté
+518,51,M,marié,0,enseignant,271684,29,Centre-Ouest,994036,3,aucun,rejeté
+905,46,F,veuf,4,artisan,497141,9,Boucle du Mouhoun,1446268,24,mauvais,rejeté
+7,33,M,marié,4,étudiant,32185,0,Centre,792139,18,mauvais,rejeté
+696,25,M,veuf,2,propriétaire_petite_entreprise,603889,1,Sahel,1362629,3,bon,rejeté
+425,28,M,célibataire,5,propriétaire_petite_entreprise,518928,1,Est,1276872,6,aucun,approuvé
+495,62,F,célibataire,6,autre,199094,5,Sahel,814601,12,mauvais,rejeté
+466,48,F,célibataire,8,autre,369760,9,Nord,1255771,36,aucun,rejeté
+857,23,M,veuf,7,propriétaire_petite_entreprise,140591,9,Centre-Ouest,1683384,3,bon,approuvé
+597,22,M,marié,5,chauffeur,677300,4,Centre-Ouest,750146,6,bon,rejeté
+274,54,M,veuf,7,artisan,681211,8,Boucle du Mouhoun,681040,18,aucun,approuvé
+865,61,F,veuf,6,étudiant,52705,0,Centre-Ouest,269678,36,mauvais,rejeté
+642,65,F,divorcé,8,autre,560112,18,Hauts-Bassins,1348071,6,aucun,approuvé
+562,42,M,veuf,1,enseignant,531028,3,Centre,1738124,24,bon,approuvé
+372,40,M,célibataire,4,propriétaire_petite_entreprise,531006,8,Centre-Ouest,1707289,36,bon,approuvé
+308,28,M,célibataire,4,autre,131328,16,Centre-Ouest,355505,24,bon,rejeté
+747,20,F,divorcé,5,agriculteur,716067,16,Centre-Ouest,1832258,3,mauvais,rejeté
+240,28,M,divorcé,8,sans_emploi,20827,0,Sahel,320403,18,aucun,rejeté
+177,31,F,célibataire,6,commerçant,562988,1,Centre,1082532,6,aucun,approuvé
+629,58,F,veuf,1,commerçant,778925,4,Hauts-Bassins,886713,18,aucun,approuvé
+655,63,M,divorcé,7,commerçant,90248,,Nord,129888,12,bon,approuvé
+942,22,M,célibataire,2,commerçant,559339,4,Centre-Ouest,1940256,36,aucun,approuvé
+19,24,F,célibataire,0,étudiant,25759,0,Boucle du Mouhoun,937121,3,aucun,rejeté
+89,28,F,marié,6,commerçant,572954,1,Sahel,348512,12,bon,approuvé
+231,26,M,veuf,1,chauffeur,573634,11,Est,240237,6,bon,approuvé
+448,48,F,marié,4,sans_emploi,45791,0,Boucle du Mouhoun,337360,18,bon,rejeté
+479,56,M,marié,5,étudiant,63240,0,Centre,71042,12,aucun,rejeté
+11,26,M,divorcé,2,propriétaire_petite_entreprise,162096,19,Nord,1209263,18,aucun,rejeté
+931,26,M,célibataire,1,étudiant,69444,0,Boucle du Mouhoun,939856,18,mauvais,rejeté
+363,55,M,marié,0,artisan,301497,13,Nord,1820394,18,aucun,rejeté
+926,62,M,divorcé,4,agriculteur,528968,16,Centre-Ouest,1630096,12,bon,rejeté
+914,150,M,divorcé,4,propriétaire_petite_entreprise,99000000,4,Centre,641309,6,bon,approuvé
+802,59,F,divorcé,1,agriculteur,648546,11,Centre,1176018,12,bon,approuvé
+143,62,F,célibataire,6,artisan,,18,Est,856481,36,aucun,rejeté
+264,39,M,divorcé,6,fonctionnaire,524313,2,Nord,1286530,6,bon,approuvé
+785,38,M,célibataire,5,agriculteur,175797,5,Nord,535077,36,bon,rejeté
+111,40,M,marié,3,propriétaire_petite_entreprise,321570,17,Sahel,1347897,3,aucun,approuvé
+615,68,F,divorcé,8,commerçant,788224,14,Hauts-Bassins,1684418,18,mauvais,rejeté
+884,46,F,veuf,5,fonctionnaire,406017,5,Nord,99892,6,bon,approuvé
+821,33,M,marié,8,propriétaire_petite_entreprise,763380,15,Centre,1216495,36,mauvais,rejeté
+968,67,M,célibataire,2,agriculteur,487154,3,Boucle du Mouhoun,1899243,18,aucun,approuvé
+862,25,M,divorcé,8,chauffeur,409355,10,Hauts-Bassins,1274369,3,aucun,approuvé
+639,26,M,veuf,1,sans_emploi,23417,0,Sahel,1037938,36,bon,rejeté
+302,34,M,divorcé,4,commerçant,90081,7,Nord,986297,36,aucun,rejeté
+632,61,F,célibataire,1,étudiant,29825,0,Centre,478910,3,bon,rejeté
+472,20,F,veuf,6,autre,310675,14,Est,92674,24,bon,approuvé
+799,34,M,veuf,6,chauffeur,169789,4,Sahel,124723,12,aucun,approuvé
+270,45,M,divorcé,3,propriétaire_petite_entreprise,748770,15,Boucle du Mouhoun,1671320,18,bon,approuvé
+24,25,M,divorcé,0,agriculteur,296687,11,Sahel,221890,36,bon,rejeté
+938,54,F,veuf,1,autre,761455,2,Hauts-Bassins,1638114,3,bon,rejeté
+99,39,F,veuf,0,autre,481501,13,Boucle du Mouhoun,267215,3,mauvais,rejeté
+670,29,M,divorcé,7,propriétaire_petite_entreprise,547553,10,Centre-Ouest,423410,18,aucun,approuvé
+788,29,M,veuf,5,sans_emploi,15256,0,Hauts-Bassins,1072697,12,bon,rejeté
+39,50,M,célibataire,2,artisan,539522,0,Centre,554999,6,bon,approuvé
+673,70,F,marié,3,autre,746513,11,Centre,1935190,36,aucun,approuvé
+167,41,F,célibataire,4,enseignant,260641,24,Sahel,479667,18,aucun,rejeté
+187,39,M,marié,6,commerçant,103037,5,Boucle du Mouhoun,552420,6,aucun,rejeté
+575,62,M,marié,4,fonctionnaire,376024,8,Sahel,141288,24,mauvais,rejeté
+492,64,F,célibataire,3,autre,375468,9,Nord,530350,3,aucun,approuvé
+659,18,M,marié,1,autre,600309,6,Centre-Ouest,558670,6,mauvais,rejeté
+97,36,F,célibataire,2,enseignant,593676,28,Hauts-Bassins,451921,3,aucun,approuvé
+752,64,F,veuf,1,agriculteur,643359,10,Est,1169234,24,aucun,approuvé
+383,63,F,divorcé,6,agriculteur,452736,9,Centre,1521926,6,bon,approuvé
+423,27,M,célibataire,4,enseignant,458479,23,Centre-Ouest,1817704,18,bon,approuvé
+784,21,M,célibataire,0,commerçant,660501,10,Hauts-Bassins,1827850,36,bon,rejeté
+924,35,F,célibataire,8,enseignant,477193,18,Sahel,834514,3,bon,rejeté
+483,47,M,divorcé,1,propriétaire_petite_entreprise,682510,0,Nord,308360,12,mauvais,rejeté
+804,21,M,célibataire,4,autre,625768,2,Centre-Ouest,54695,12,aucun,rejeté
+674,59,F,veuf,2,étudiant,20834,0,Boucle du Mouhoun,1846870,24,bon,rejeté
+462,21,M,divorcé,1,sans_emploi,45908,0,Sahel,1196375,24,bon,rejeté
+676,44,F,marié,3,fonctionnaire,475374,28,Nord,1165770,36,bon,rejeté
+973,59,M,marié,5,agriculteur,147157,12,Est,1299801,3,bon,rejeté
+624,67,F,célibataire,5,étudiant,69833,0,Nord,1703070,24,bon,approuvé
+85,60,F,marié,7,commerçant,581656,0,Boucle du Mouhoun,141751,18,mauvais,rejeté
+908,53,F,divorcé,4,agriculteur,495884,10,Nord,387927,3,aucun,approuvé
+125,70,F,veuf,5,propriétaire_petite_entreprise,234692,10,Nord,1173129,3,bon,approuvé
+740,38,F,célibataire,1,autre,573857,8,Centre-Ouest,1185730,6,bon,approuvé
+15,66,F,célibataire,3,propriétaire_petite_entreprise,522690,16,Nord,790976,3,bon,approuvé
+761,29,F,marié,4,enseignant,279560,12,Nord,1235560,12,aucun,rejeté
+753,70,M,divorcé,0,fonctionnaire,468709,1,Centre-Ouest,438026,18,aucun,approuvé
+744,55,F,marié,7,autre,62948,8,Centre,1428280,6,bon,rejeté
+98,19,M,divorcé,6,enseignant,164596,5,Centre-Ouest,1755215,36,bon,approuvé
+635,70,M,célibataire,4,chauffeur,731150,12,Est,1437168,12,mauvais,rejeté
+945,23,M,veuf,4,sans_emploi,30021,0,Centre-Ouest,491259,6,aucun,approuvé
+850,46,F,veuf,3,chauffeur,63555,19,Centre-Ouest,1496053,6,mauvais,rejeté
+515,37,F,divorcé,5,étudiant,35424,0,Centre-Ouest,1950784,3,bon,approuvé
+346,59,M,célibataire,6,fonctionnaire,525197,25,Boucle du Mouhoun,888357,3,bon,approuvé
+809,49,F,célibataire,6,agriculteur,626864,7,Boucle du Mouhoun,1757955,18,aucun,approuvé
+321,34,M,marié,3,enseignant,483713,17,Sahel,1909626,18,bon,rejeté
+23,63,F,marié,5,fonctionnaire,462252,9,Est,1188848,18,bon,rejeté
+328,46,F,veuf,7,commerçant,513918,9,Centre,1717640,6,mauvais,approuvé
+243,25,M,divorcé,7,chauffeur,150155,13,Boucle du Mouhoun,1410398,3,bon,approuvé
+457,21,M,veuf,0,propriétaire_petite_entreprise,392621,10,Est,735493,3,bon,approuvé
+715,23,F,marié,8,étudiant,48312,0,Nord,1507230,6,bon,approuvé
+287,19,F,célibataire,8,chauffeur,528906,0,Est,388540,24,bon,rejeté
+148,55,M,célibataire,5,étudiant,55046,0,Centre,151459,6,bon,approuvé
+54,53,F,divorcé,5,agriculteur,357428,19,Nord,740907,24,bon,rejeté
+487,41,M,marié,0,enseignant,222572,24,Nord,886642,36,aucun,approuvé
+192,36,M,veuf,0,propriétaire_petite_entreprise,263332,7,Nord,1871895,3,aucun,rejeté
+998,33,M,veuf,2,artisan,204164,13,Hauts-Bassins,887529,24,aucun,approuvé
+846,31,M,marié,2,autre,94796,2,Sahel,1484497,24,aucun,rejeté
+162,51,F,célibataire,3,propriétaire_petite_entreprise,252781,17,Est,1963722,12,bon,approuvé
+436,24,F,divorcé,1,agriculteur,129312,10,Est,843567,3,aucun,rejeté
+813,64,F,divorcé,0,artisan,665107,7,Hauts-Bassins,913204,3,bon,rejeté
+200,42,F,veuf,1,commerçant,628316,14,Est,1778794,6,bon,rejeté
+203,60,M,marié,4,propriétaire_petite_entreprise,196570,1,Centre,1166271,24,mauvais,rejeté
+260,25,F,veuf,3,étudiant,68613,0,Centre,1247086,18,bon,approuvé
+319,56,M,marié,0,propriétaire_petite_entreprise,577977,6,Nord,1608141,3,bon,approuvé
+136,70,M,marié,7,étudiant,77738,0,Nord,765472,24,bon,approuvé
+198,67,F,veuf,3,artisan,124080,2,Hauts-Bassins,174447,36,aucun,rejeté
+139,30,F,célibataire,3,autre,354470,1,Centre-Ouest,728758,6,aucun,approuvé
+691,63,F,divorcé,7,propriétaire_petite_entreprise,238139,9,Nord,595648,12,aucun,rejeté
+170,38,F,divorcé,5,propriétaire_petite_entreprise,691176,16,Sahel,243510,18,aucun,approuvé
+489,51,F,veuf,7,propriétaire_petite_entreprise,121441,12,Centre-Ouest,1330020,6,bon,approuvé
+151,54,F,célibataire,0,agriculteur,311991,11,Est,1968318,36,bon,approuvé
+258,53,F,célibataire,7,propriétaire_petite_entreprise,521719,4,Boucle du Mouhoun,118803,24,aucun,approuvé
+890,57,M,célibataire,7,artisan,685687,11,Boucle du Mouhoun,287778,6,aucun,rejeté
+665,29,M,célibataire,6,étudiant,61034,0,Boucle du Mouhoun,1065576,24,aucun,rejeté
+980,21,F,veuf,5,fonctionnaire,589462,10,Boucle du Mouhoun,758421,6,aucun,approuvé
+975,60,F,marié,7,propriétaire_petite_entreprise,591566,16,Nord,1096417,36,aucun,approuvé
+574,69,F,marié,5,sans_emploi,46351,0,Nord,1079649,36,aucun,rejeté
+87,18,F,célibataire,4,autre,172717,3,Centre-Ouest,429862,3,bon,approuvé
+660,49,M,marié,7,enseignant,275695,26,Nord,1202702,36,aucun,approuvé
+251,56,F,marié,4,étudiant,68280,0,Sahel,697341,36,,rejeté
+412,25,M,divorcé,5,agriculteur,566750,2,Est,718629,6,aucun,approuvé
+736,49,M,célibataire,0,sans_emploi,27809,0,Nord,1717788,12,bon,approuvé
+169,54,M,divorcé,6,autre,245768,13,Nord,1072460,3,mauvais,approuvé
+211,66,F,marié,5,chauffeur,93072,12,Sahel,1121860,12,bon,rejeté
+746,66,F,divorcé,7,autre,150777,17,Centre-Ouest,667752,24,bon,rejeté
+997,55,M,divorcé,8,étudiant,48133,0,Est,653350,24,mauvais,rejeté
+335,49,F,marié,5,agriculteur,122289,17,Sahel,1804867,12,bon,rejeté
+102,40,M,marié,5,artisan,91226,5,Sahel,1102839,6,aucun,approuvé
+34,40,M,célibataire,4,agriculteur,790201,0,Boucle du Mouhoun,1093233,36,bon,rejeté
+390,62,M,marié,1,agriculteur,605523,19,Nord,574624,36,bon,approuvé
+158,70,M,divorcé,8,enseignant,526188,6,Centre-Ouest,1690067,36,mauvais,rejeté
+497,36,F,veuf,6,fonctionnaire,176928,25,Boucle du Mouhoun,1447749,12,bon,rejeté
+33,59,F,divorcé,0,étudiant,37214,0,Sahel,78251,6,bon,rejeté
+779,27,F,marié,0,sans_emploi,19893,0,Nord,1443526,12,bon,rejeté
+592,64,M,divorcé,2,fonctionnaire,374699,26,Est,375188,18,aucun,approuvé
+456,29,M,divorcé,4,artisan,466583,15,Centre,403548,3,aucun,rejeté
+554,57,M,marié,1,commerçant,181900,4,Centre-Ouest,454427,6,bon,rejeté
+598,40,M,veuf,5,chauffeur,72930,1,Est,1211729,36,aucun,rejeté
+92,36,F,veuf,0,étudiant,43570,0,Hauts-Bassins,476752,36,aucun,rejeté
+782,50,M,divorcé,8,sans_emploi,34317,0,Boucle du Mouhoun,167517,6,aucun,rejeté
+415,41,M,célibataire,0,propriétaire_petite_entreprise,483441,0,Sahel,1791599,18,mauvais,rejeté
+284,44,M,veuf,6,autre,387860,10,Nord,866228,3,bon,rejeté
+661,63,F,célibataire,8,fonctionnaire,516407,20,Centre-Ouest,842425,36,bon,approuvé
+311,44,F,marié,2,artisan,218048,2,Boucle du Mouhoun,1474663,12,aucun,rejeté
+932,61,F,marié,1,commerçant,435032,3,Est,1813190,6,bon,approuvé
+184,22,M,marié,8,commerçant,483057,14,Centre,743206,12,bon,rejeté
+37,40,F,marié,5,artisan,632673,19,Boucle du Mouhoun,770777,6,aucun,approuvé
+225,28,F,veuf,7,étudiant,71707,0,Est,727160,18,bon,rejeté
+684,58,M,divorcé,8,agriculteur,726296,10,Centre-Ouest,87493,18,mauvais,rejeté
+677,20,M,célibataire,1,commerçant,349963,5,Sahel,597578,18,aucun,rejeté
+161,27,F,marié,8,fonctionnaire,172612,26,Hauts-Bassins,814357,18,bon,approuvé
+625,56,F,divorcé,2,fonctionnaire,246881,30,Hauts-Bassins,173199,36,bon,approuvé
+733,57,F,marié,4,commerçant,78409,9,Boucle du Mouhoun,199457,3,mauvais,rejeté
+667,35,M,veuf,2,agriculteur,323135,16,Sahel,1597358,6,aucun,rejeté
+127,44,M,célibataire,0,étudiant,51966,0,Hauts-Bassins,980491,24,aucun,rejeté
+299,30,M,marié,2,chauffeur,607815,11,Nord,798778,18,aucun,rejeté
+974,19,F,veuf,8,fonctionnaire,502053,26,Nord,182957,18,aucun,rejeté
+501,21,M,divorcé,2,chauffeur,111916,7,Boucle du Mouhoun,822378,3,mauvais,rejeté
+435,27,F,marié,7,agriculteur,408655,13,Boucle du Mouhoun,1557572,12,bon,approuvé
+794,70,M,veuf,2,artisan,71533,16,Sahel,914899,24,bon,rejeté
+607,42,M,veuf,7,agriculteur,183988,6,Centre-Ouest,1408356,12,aucun,rejeté
+401,61,M,célibataire,7,étudiant,62358,0,Centre-Ouest,257596,3,aucun,approuvé
+564,18,M,veuf,0,étudiant,60866,0,Centre-Ouest,333817,36,bon,rejeté
+315,22,M,divorcé,1,artisan,589999,18,Centre-Ouest,1581064,36,bon,approuvé
+751,39,M,marié,8,agriculteur,408781,15,Est,581598,3,aucun,approuvé
+745,28,F,marié,0,fonctionnaire,568241,11,Nord,1892856,12,mauvais,rejeté
+370,60,M,veuf,2,propriétaire_petite_entreprise,675873,4,Boucle du Mouhoun,952458,24,aucun,rejeté
+923,58,F,veuf,8,chauffeur,675869,3,Boucle du Mouhoun,157009,36,aucun,rejeté
+800,34,M,marié,3,propriétaire_petite_entreprise,384620,11,Centre,1887588,12,mauvais,rejeté
+256,40,F,célibataire,5,artisan,512501,10,Hauts-Bassins,433395,12,bon,rejeté
+292,54,F,divorcé,4,sans_emploi,19025,0,Boucle du Mouhoun,1936963,3,bon,approuvé
+877,53,M,marié,8,commerçant,538149,4,Centre-Ouest,352788,18,aucun,approuvé
+957,50,F,divorcé,7,chauffeur,560581,11,Centre,1880286,18,bon,rejeté
+868,24,M,célibataire,1,autre,292411,0,Centre-Ouest,603188,12,mauvais,rejeté
+364,32,F,veuf,6,propriétaire_petite_entreprise,414743,19,Hauts-Bassins,987828,18,bon,approuvé
+488,60,F,célibataire,1,fonctionnaire,344454,19,Centre,1545567,36,aucun,approuvé
+532,54,M,divorcé,3,autre,82137,13,Est,983296,6,aucun,rejeté
+494,40,M,veuf,6,artisan,739597,18,Nord,1053510,3,bon,approuvé
+633,28,M,veuf,7,fonctionnaire,468166,27,Hauts-Bassins,1055594,36,mauvais,rejeté
+174,69,F,marié,3,artisan,82828,14,Centre,341126,6,bon,rejeté
+232,50,M,divorcé,3,commerçant,216168,18,Boucle du Mouhoun,1520801,6,aucun,rejeté
+226,32,F,marié,7,commerçant,440187,19,Centre-Ouest,1306715,6,bon,rejeté
+894,19,F,célibataire,6,autre,48328,14,Nord,1300251,3,bon,approuvé
+354,36,M,marié,8,fonctionnaire,416378,21,Centre-Ouest,611693,3,aucun,approuvé
+553,70,M,veuf,1,sans_emploi,45831,0,Nord,258281,36,bon,rejeté
+816,52,M,veuf,6,agriculteur,302070,11,Sahel,1928359,3,aucun,approuvé
+394,69,F,célibataire,8,enseignant,316536,22,Boucle du Mouhoun,200528,18,bon,approuvé
+365,39,F,célibataire,4,fonctionnaire,520180,28,Centre-Ouest,1525249,36,mauvais,rejeté
+578,53,M,célibataire,4,propriétaire_petite_entreprise,717236,6,Centre,1300854,18,bon,approuvé
+595,49,F,célibataire,1,commerçant,579087,11,Boucle du Mouhoun,493942,3,mauvais,rejeté
+100,19,M,célibataire,6,sans_emploi,32685,0,Sahel,1412413,18,bon,rejeté
+755,42,F,marié,7,sans_emploi,42713,0 ans,Centre-Ouest,1852272,3,aucun,rejeté
+22,69,M,célibataire,7,enseignant,334423,20,Centre-Ouest,1802290,36,aucun,rejeté
+896,42,M,marié,3,propriétaire_petite_entreprise,387608,7,Centre,1388733,24,bon,approuvé
+944,60,F,célibataire,0,artisan,221844,13,Centre,1041120,24,aucun,approuvé
+430,38,F,célibataire,6,enseignant,371468,20,Centre,513685,18,mauvais,approuvé
+28,41,F,veuf,5,propriétaire_petite_entreprise,96958,9,Hauts-Bassins,1274665,3,aucun,rejeté
+439,50,M,veuf,8,chauffeur,484718,4,Centre-Ouest,541215,24,aucun,approuvé
+244,38,M,marié,3,sans_emploi,27466,0,Est,723590,18,bon,rejeté
+56,49,M,célibataire,4,autre,175230,16,Nord,201456,6,bon,approuvé
+351,30,F,célibataire,4,propriétaire_petite_entreprise,124607,16,Boucle du Mouhoun,170076,24,aucun,rejeté
+538,34,F,veuf,1,enseignant,282371,27,Centre-Ouest,710354,18,aucun,approuvé
+399,43,M,divorcé,3,autre,266572,19,Hauts-Bassins,1036399,3,aucun,rejeté
+692,33,M,veuf,7,étudiant,73413,0,Centre-Ouest,1638404,24,aucun,approuvé
+545,28,F,célibataire,3,autre,724500,19,Est,73004,6,mauvais,rejeté
+355,49,F,marié,5,sans_emploi,25531,0,Boucle du Mouhoun,730667,18,aucun,approuvé
+527,19,M,veuf,1,propriétaire_petite_entreprise,132172,14,Centre,1237030,18,bon,approuvé
+906,24,M,célibataire,1,propriétaire_petite_entreprise,554539,5,Sahel,1093840,18,aucun,approuvé
+157,70,F,célibataire,8,autre,600347,1,Hauts-Bassins,1598229,3,aucun,rejeté
+682,34,M,divorcé,3,chauffeur,694287,8,Centre,1371403,3,aucun,rejeté
+687,56,F,marié,7,sans_emploi,27641,0,Nord,735388,18,aucun,rejeté
+349,56,M,divorcé,5,fonctionnaire,590437,15,Centre-Ouest,1725675,12,mauvais,rejeté
+512,30,F,marié,5,agriculteur,433444,10,Boucle du Mouhoun,611340,6,aucun,rejeté
+558,47,M,divorcé,3,étudiant,26479,0,Boucle du Mouhoun,106116,6,bon,rejeté
+892,26,M,veuf,2,propriétaire_petite_entreprise,304837,17,Sahel,603098,24,mauvais,approuvé
+863,40,M,marié,3,sans_emploi,46389,0,Hauts-Bassins,1215161,12,bon,rejeté
+79,42,M,marié,8,commerçant,230279,6,Centre-Ouest,1138287,12,aucun,approuvé
+452,39,F,veuf,4,chauffeur,553066,18,Est,1208343,6,mauvais,rejeté
+348,47,M,marié,2,autre,139977,14,Est,533442,18,bon,approuvé
+719,67,M,divorcé,1,commerçant,311731,8,Hauts-Bassins,531127,18,mauvais,rejeté
+797,36,M,célibataire,2,chauffeur,523157,17,Nord,544166,6,aucun,approuvé
+836,61,M,marié,0,enseignant,493288,12,Centre,1824755,3,aucun,approuvé
+153,66,M,marié,3,artisan,730417,10,Centre-Ouest,701233,3,aucun,approuvé
+801,66,F,veuf,7,artisan,157827,19,Sahel,485892,18,mauvais,approuvé
+657,52,F,veuf,7,fonctionnaire,309472,21,Hauts-Bassins,680698,18,bon,approuvé
+648,55,F,marié,8,commerçant,737976,5,Centre,1710226,3,mauvais,rejeté
+331,55,F,divorcé,8,chauffeur,759979,18,Est,1331506,6,bon,rejeté
+919,66,M,célibataire,4,sans_emploi,46323,0,Nord,931037,18,aucun,rejeté
+737,28,F,veuf,8,commerçant,133476,0,Est,1399987,36,aucun,rejeté
+291,55,M,veuf,6,agriculteur,279719,11,Sahel,737605,24,bon,approuvé
+432,53,M,divorcé,2,fonctionnaire,294933,6,Est,138302,3,bon,approuvé
+978,67,M,célibataire,4,sans_emploi,48740,0,Centre-Ouest,1863508,18,bon,rejeté
+524,46,F,célibataire,8,sans_emploi,38110,0,Sahel,1155209,6,aucun,rejeté
+403,52,F,célibataire,4,autre,381678,1,Boucle du Mouhoun,1379502,6,aucun,approuvé
+769,45,F,célibataire,6,fonctionnaire,499937,11,Boucle du Mouhoun,1120804,18,aucun,approuvé
+873,21,F,marié,3,chauffeur,374154,2,Est,246681,24,aucun,approuvé
+781,32,F,célibataire,5,étudiant,66300,0,Centre,66105,18,mauvais,rejeté
+141,37,F,divorcé,6,enseignant,248511,4,Centre-Ouest,1781897,36,mauvais,rejeté
+620,39,F,célibataire,3,propriétaire_petite_entreprise,434798,6,Nord,1906309,6,mauvais,rejeté
+135,63,M,célibataire,6,agriculteur,592829,11,Est,608819,3,bon,approuvé
+507,37,M,célibataire,4,chauffeur,709986,4,Hauts-Bassins,1379785,3,bon,approuvé
+718,20,M,divorcé,5,fonctionnaire,331303,11,Boucle du Mouhoun,1702332,18,aucun,rejeté
+636,47,F,veuf,6,agriculteur,459503,0,Centre,1862901,6,aucun,approuvé
+683,27,F,veuf,2,sans_emploi,45348,0,Centre,321635,3,mauvais,rejeté
+959,21,F,marié,2,étudiant,63147,0,Centre,1275701,6,mauvais,approuvé
+713,31,F,veuf,0,étudiant,30416,0,Nord,918408,18,bon,approuvé
+222,49,M,célibataire,3,autre,628158,3,Centre-Ouest,915139,36,bon,rejeté
+317,51,M,marié,8,agriculteur,355018,9,Centre-Ouest,863560,3,aucun,rejeté
+447,36,F,marié,6,étudiant,64940,0,Sahel,1614371,12,aucun,rejeté
+645,20,F,divorcé,1,étudiant,38733,0,Centre-Ouest,1920038,36,bon,approuvé
+791,51,M,veuf,7,sans_emploi,45171,0,Nord,1442398,36,aucun,rejeté
+323,18,M,divorcé,5,étudiant,65580,0,Centre-Ouest,1418722,18,bon,rejeté
+1,56,F,célibataire,7,artisan,94886,18,Boucle du Mouhoun,1186074,24,aucun,approuvé
+166,18,F,veuf,6,chauffeur,456885,8,Hauts-Bassins,611672,6,bon,rejeté
+84,53,F,divorcé,4,enseignant,489978,30,Hauts-Bassins,1076919,36,bon,approuvé
+772,24,M,célibataire,2,fonctionnaire,174544,21,Boucle du Mouhoun,771075,6,aucun,rejeté
+759,38,F,célibataire,2,enseignant,220864,6 ans,Est,1712656,6,aucun,rejeté
+542,59,F,célibataire,2,propriétaire_petite_entreprise,69709,9,Est,1098939,36,mauvais,approuvé
+32,61,F,célibataire,6,enseignant,597237,13,Est,999597,12,aucun,rejeté
+393,38,F,divorcé,0,étudiant,66546,0,Est,525278,3,mauvais,approuvé
+273,47,M,divorcé,2,commerçant,312647,16,Boucle du Mouhoun,1615213,12,aucun,rejeté
+605,27,M,marié,4,autre,238910,11,Hauts-Bassins,1075607,24,bon,approuvé
+288,53,F,divorcé,5,artisan,319067,7,Centre-Ouest,366480,18,bon,rejeté
+951,41,M,célibataire,2,étudiant,32314,0,Centre-Ouest,1363085,6,aucun,rejeté
+105,39,M,veuf,0,autre,245550,19 ans,Sahel,1559090,18,bon,approuvé
+878,26,M,marié,2,autre,724677,16,Nord,1038537,36,bon,approuvé
+787,50,F,célibataire,0,artisan,298430,8,Centre-Ouest,767368,3,aucun,approuvé
+573,60,M,veuf,5,sans_emploi,28382,0,Hauts-Bassins,486442,24,aucun,rejeté
+340,42,M,célibataire,0,chauffeur,451473,1,Nord,856457,12,aucun,approuvé
+124,44,M,célibataire,0,chauffeur,126231,18,Est,540042,12,bon,approuvé
+103,62,M,marié,4,autre,731757,1,Est,612997,12,bon,rejeté
+508,21,M,divorcé,1,chauffeur,247440,6,Centre,924820,24,aucun,approuvé
+851,48,M,marié,2,commerçant,529572,15,Centre-Ouest,500415,3,mauvais,rejeté
+147,35,F,célibataire,0,fonctionnaire,169975,4,Centre-Ouest,979065,18,bon,approuvé
+922,70,F,divorcé,8,artisan,62072,19,Sahel,1171322,24,aucun,rejeté
+990,21,F,divorcé,3,autre,139704,5,Sahel,1422407,18,mauvais,rejeté
+547,61,F,divorcé,5,agriculteur,547173,18,Hauts-Bassins,1736647,24,mauvais,rejeté
+708,37,M,veuf,2,commerçant,113704,13,Boucle du Mouhoun,374058,3,bon,rejeté
+113,39,M,célibataire,1,agriculteur,294444,9,Est,261837,6,bon,approuvé
+347,63,F,divorcé,6,agriculteur,674102,7,Nord,697652,36,aucun,approuvé
+750,56,F,marié,2,étudiant,50418,0,Centre,364444,24,bon,approuvé
+910,25,F,marié,0,commerçant,799942,14,Centre,974914,24,aucun,rejeté
+183,45,M,divorcé,3,commerçant,747548,5,Nord,521082,36,aucun,approuvé
+783,65,M,veuf,1,étudiant,70842,0,Nord,849717,36,aucun,approuvé
+267,36,M,veuf,4,commerçant,452811,10,Boucle du Mouhoun,1377579,24,aucun,rejeté
+41,58,M,veuf,4,commerçant,197164,10,Nord,581831,18,mauvais,rejeté
+119,20,F,marié,4,artisan,638069,14,Boucle du Mouhoun,883032,12,mauvais,rejeté
+140,61,M,veuf,2,chauffeur,255048,5,Centre,966838,3,aucun,rejeté
+59,25,M,marié,1,chauffeur,476341,2,Sahel,737409,18,aucun,approuvé
+201,30,F,divorcé,4,agriculteur,296695,2,Boucle du Mouhoun,396130,24,bon,rejeté
+822,29,M,célibataire,8,étudiant,75991,0,Nord,89080,12,aucun,rejeté
+549,69,F,veuf,8,propriétaire_petite_entreprise,401185,19,Centre-Ouest,353446,24,aucun,rejeté
+818,36,M,marié,8,sans_emploi,20914,0,Centre,1446728,24,mauvais,rejeté
+717,69,M,célibataire,1,sans_emploi,19409,0,Centre,601039,24,bon,rejeté
+411,64,M,célibataire,5,autre,168652,16,Centre-Ouest,1701536,36,aucun,approuvé
+318,38,M,marié,0,agriculteur,475928,18,Est,1132448,3,mauvais,approuvé
+510,63,M,marié,6,agriculteur,692158,0,Centre,50215,18,mauvais,rejeté
+727,68,M,divorcé,2,chauffeur,43196,16,Hauts-Bassins,1985573,36,bon,rejeté
+485,43,F,veuf,0,propriétaire_petite_entreprise,756435,4,Centre-Ouest,712132,18,mauvais,rejeté
+122,26,M,veuf,8,artisan,491978,1,Est,608030,36,bon,approuvé
+227,67,M,veuf,5,agriculteur,518336,7,Nord,966383,18,aucun,rejeté
+506,24,M,divorcé,8,chauffeur,648269,7,Sahel,1653969,3,mauvais,rejeté
+242,37,M,divorcé,0,artisan,500796,8,Nord,1850072,18,aucun,rejeté
+775,49,M,célibataire,7,chauffeur,598669,12,Sahel,534427,12,bon,approuvé
+689,42,M,divorcé,4,artisan,431407,10,Centre-Ouest,1927380,24,mauvais,approuvé
+205,21,M,célibataire,3,enseignant,168313,24,Centre-Ouest,1213490,6,bon,rejeté
+420,59,F,divorcé,7,autre,549668,9,Est,1599317,12,mauvais,rejeté
+182,23,M,célibataire,4,commerçant,285127,1,Est,1770856,18,bon,approuvé
+320,30,F,marié,3,enseignant,578276,3,Centre,353664,18,aucun,approuvé
+298,50,F,marié,1,autre,692845,4,Centre-Ouest,1294453,36,aucun,approuvé
+880,33,M,célibataire,2,commerçant,268208,8,Centre,1489918,36,bon,rejeté
+837,63,F,célibataire,1,chauffeur,680337,19,Boucle du Mouhoun,1696255,24,bon,rejeté
+245,39,F,marié,7,commerçant,738112,7,Boucle du Mouhoun,1053429,36,aucun,approuvé
+217,59,F,veuf,7,sans_emploi,35644,0,Hauts-Bassins,301924,6,bon,approuvé
+223,69,F,marié,8,étudiant,38489,0,Est,221033,3,bon,rejeté
+505,49,M,veuf,3,agriculteur,390988,0,Hauts-Bassins,1201054,18,mauvais,approuvé
+641,18,M,veuf,1,sans_emploi,47463,0,Sahel,501989,18,aucun,rejeté
+970,26,M,célibataire,6,agriculteur,209573,13,Centre,1776008,12,bon,approuvé
+38,62,F,veuf,7,propriétaire_petite_entreprise,726337,16,Est,1451727,12,aucun,approuvé
+72,28,F,marié,7,propriétaire_petite_entreprise,164040,2,Sahel,806254,24,aucun,approuvé
+874,43,F,veuf,8,étudiant,43274,0,Est,1668374,6,bon,rejeté
+805,18,F,célibataire,5,fonctionnaire,497821,17,Centre-Ouest,437405,3,aucun,approuvé
+255,34,M,marié,2,agriculteur,743798,12,Boucle du Mouhoun,1261353,24,bon,approuvé
+626,65,M,célibataire,5,enseignant,191846,14,Centre,550827,18,aucun,rejeté
+889,20,M,divorcé,3,propriétaire_petite_entreprise,345019,17,Hauts-Bassins,834627,18,mauvais,rejeté
+900,23,M,divorcé,8,artisan,101596,5,Sahel,1480360,3,aucun,rejeté
+80,50,M,célibataire,0,propriétaire_petite_entreprise,551937,13,Nord,1003959,12,mauvais,rejeté
+812,41,F,marié,2,commerçant,771616,17,Centre,1538524,6,bon,approuvé
+275,51,F,marié,3,chauffeur,289415,2,Centre-Ouest,607243,24,aucun,rejeté
+229,55,F,divorcé,6,artisan,95426,0,Est,545384,18,,rejeté
+236,32,F,divorcé,0,chauffeur,375098,1,Centre-Ouest,1756533,36,aucun,approuvé
+63,60,M,veuf,2,sans_emploi,39214,0,Boucle du Mouhoun,1310367,12,bon,approuvé
+461,67,F,divorcé,3,agriculteur,534080,11,Nord,1460235,6,bon,rejeté
+630,51,M,marié,6,chauffeur,604790,2,Nord,1010002,6,aucun,approuvé
+588,34,M,célibataire,7,commerçant,706627,9,Boucle du Mouhoun,187815,3,bon,rejeté
+381,27,M,veuf,0,enseignant,339052,13,Est,297908,6,aucun,approuvé
+739,32,M,veuf,7,autre,301677,4,Hauts-Bassins,699362,36,aucun,rejeté
+895,48,M,divorcé,6,autre,395706,17,Hauts-Bassins,1605084,6,aucun,approuvé
+710,42,F,divorcé,6,enseignant,504464,14,Est,491168,24,aucun,approuvé
+26,66,F,célibataire,4,chauffeur,218274,8,Nord,461927,24,,rejeté
+313,70,F,célibataire,8,sans_emploi,40275,0,Centre-Ouest,1595541,24,aucun,rejeté
+819,18,F,marié,8,propriétaire_petite_entreprise,294394,15,Hauts-Bassins,153088,6,aucun,approuvé
+478,64,F,marié,6,commerçant,344958,11,Boucle du Mouhoun,220956,6,aucun,rejeté
+197,51,M,marié,0,étudiant,43953,0,Boucle du Mouhoun,1274648,3,bon,approuvé
+852,52,F,divorcé,5,sans_emploi,16995,0,Boucle du Mouhoun,1767780,18,mauvais,rejeté
+261,41,M,divorcé,3,autre,571885,10,Sahel,1583161,12,bon,approuvé
+909,20,F,veuf,3,artisan,329324,8,Est,915048,6,bon,approuvé
+471,46,M,divorcé,2,fonctionnaire,250699,29,Boucle du Mouhoun,1565554,36,bon,rejeté
+925,40,F,célibataire,8,artisan,373838,14,Sahel,853538,18,bon,rejeté
+927,47,F,veuf,8,chauffeur,787386,8,Centre,181401,18,bon,approuvé
+424,27,F,marié,8,autre,675254,8,Centre,469149,12,aucun,approuvé
+300,28,M,veuf,5,sans_emploi,27867,0,Sahel,862283,12,aucun,rejeté
+281,58,F,célibataire,8,agriculteur,653369,17,Centre-Ouest,1911925,3,bon,approuvé
+838,34,F,veuf,5,propriétaire_petite_entreprise,333362,12,Boucle du Mouhoun,1643430,36,mauvais,rejeté
+327,39,M,divorcé,1,propriétaire_petite_entreprise,523779,0,Nord,882595,36,aucun,rejeté
+807,65,F,célibataire,3,autre,163351,9,Centre,890268,12,bon,rejeté
+413,22,F,veuf,5,chauffeur,501370,17,Hauts-Bassins,387283,3,aucun,approuvé
+672,47,F,divorcé,8,artisan,528161,6,Boucle du Mouhoun,773879,18,aucun,approuvé
+585,48,F,marié,4,commerçant,655781,11,Boucle du Mouhoun,343313,6,mauvais,rejeté
+537,50,M,marié,7,commerçant,722265,15,Est,355063,6,bon,approuvé
+964,33,F,célibataire,6,étudiant,22913,0,Boucle du Mouhoun,206837,24,aucun,rejeté
+570,51,F,célibataire,6,autre,568425,8,Nord,1061942,24,mauvais,rejeté
+887,32,F,divorcé,5,enseignant,337223,21,Boucle du Mouhoun,361416,24,mauvais,rejeté
+128,27,M,veuf,1,artisan,767955,3,Hauts-Bassins,188563,12,bon,rejeté
+709,70,M,marié,8,commerçant,176694,4,Est,1067507,36,aucun,rejeté
+907,43,F,divorcé,7,sans_emploi,41754,0,Nord,170787,36,aucun,rejeté
+402,59,M,marié,3,étudiant,64041,0,Sahel,320146,24,bon,rejeté
+18,26,F,divorcé,5,fonctionnaire,461955,28,Sahel,162547,12,aucun,approuvé
+546,38,F,célibataire,1,propriétaire_petite_entreprise,444499,6,Centre,1112016,6,aucun,rejeté
+698,61,F,veuf,0,autre,798271,17,Nord,200635,12,bon,rejeté
+486,67,M,marié,8,chauffeur,40901,12,Sahel,1575389,6,aucun,rejeté
+238,68,M,marié,2,sans_emploi,20075,0,Nord,1802390,36,aucun,rejeté
+332,32,M,marié,8,agriculteur,659055,5,Centre,1620234,18,bon,approuvé
+46,22,M,divorcé,1,sans_emploi,38625,0,Hauts-Bassins,281915,3,bon,rejeté
+610,68,M,divorcé,7,propriétaire_petite_entreprise,786716,4,Hauts-Bassins,1405398,6,bon,approuvé
+142,59,F,divorcé,1,chauffeur,112715,11,Nord,1231208,24,aucun,rejeté
+965,67,F,divorcé,5,sans_emploi,25489,0,Nord,786664,3,aucun,rejeté
+768,23,F,veuf,4,propriétaire_petite_entreprise,557961,19,Boucle du Mouhoun,464750,6,aucun,rejeté
+52,18,M,marié,5,fonctionnaire,300159,23,Centre,974618,18,aucun,approuvé
+116,35,F,célibataire,8,agriculteur,785453,14,Centre,447710,3,bon,rejeté
+373,32,F,veuf,5,chauffeur,625457,14,Centre,1995692,36,bon,rejeté
+391,41,F,veuf,1,propriétaire_petite_entreprise,376199,7,Sahel,1569065,12,mauvais,rejeté
+360,34,F,divorcé,2,artisan,383615,3,Hauts-Bassins,880948,24,aucun,approuvé
+888,22,F,veuf,5,commerçant,451249,1,Nord,637069,36,aucun,rejeté
+958,48,F,veuf,6,enseignant,279544,9,Centre-Ouest,1506800,24,aucun,rejeté
+307,46,F,célibataire,1,enseignant,595376,18,Centre,851849,6,aucun,approuvé
+621,26,M,marié,0,artisan,357953,19,Centre-Ouest,999133,12,aucun,approuvé
+40,63,F,célibataire,2,commerçant,664674,16,Hauts-Bassins,599639,24,aucun,rejeté
+179,29,M,célibataire,5,commerçant,127468,2,Centre-Ouest,241703,6,aucun,rejeté
+678,19,M,célibataire,1,propriétaire_petite_entreprise,258980,0,Boucle du Mouhoun,1548117,18,mauvais,rejeté
+586,24,F,célibataire,2,propriétaire_petite_entreprise,531638,1,Centre-Ouest,1737025,36,aucun,approuvé
+671,35,F,veuf,7,autre,386229,12,Nord,442647,18,bon,rejeté
+334,18,M,célibataire,3,propriétaire_petite_entreprise,778096,8,Est,902050,3,bon,rejeté
+935,40,F,célibataire,0,chauffeur,258417,18,Est,434533,36,bon,approuvé
+440,58,F,marié,8,commerçant,751752,11,Hauts-Bassins,95256,6,bon,approuvé
+195,26,F,divorcé,1,fonctionnaire,358432,4,Centre-Ouest,993693,3,aucun,approuvé
+14,56,F,veuf,8,artisan,268576,18,Hauts-Bassins,964091,12,bon,rejeté
+730,64,M,divorcé,8,artisan,250536,8,Boucle du Mouhoun,186262,18,mauvais,rejeté
+241,58,F,divorcé,6,agriculteur,615919,11,Sahel,902746,36,aucun,approuvé
+798,33,M,célibataire,6,artisan,403114,15,Sahel,744096,12,bon,approuvé
+90,150,M,veuf,5,artisan,99000000,0,Centre,1004652,12,aucun,rejeté
+385,44,M,marié,8,chauffeur,450834,6,Centre,1852466,6,bon,approuvé
+469,19,F,divorcé,5,autre,357942,15,Boucle du Mouhoun,471773,18,mauvais,rejeté
+449,41,M,célibataire,5,autre,632399,2,Est,887165,12,aucun,approuvé
+224,25,F,célibataire,3,fonctionnaire,171253,7,Est,207462,3,bon,rejeté
+792,48,M,veuf,8,fonctionnaire,409252,29,Centre-Ouest,458916,6,aucun,approuvé
+756,42,F,veuf,5,enseignant,489260,15,Centre,921061,12,bon,approuvé
+533,36,M,veuf,0,agriculteur,264062,2,Sahel,1777536,6,bon,rejeté
+774,31,M,divorcé,5,enseignant,304468,20,Hauts-Bassins,1240821,6,aucun,approuvé
+398,56,F,divorcé,0,chauffeur,182482,5,Est,1995537,36,aucun,rejeté
+724,49,F,marié,2,agriculteur,302199,9,Hauts-Bassins,1441440,36,bon,approuvé
+528,27,M,célibataire,4,chauffeur,44136,12,Centre-Ouest,589767,3,bon,approuvé
+397,68,F,veuf,8,agriculteur,257314,18,Sahel,204455,3,bon,approuvé
+491,62,M,marié,3,agriculteur,548175,14,Sahel,1235656,18,aucun,rejeté
+95,25,F,célibataire,4,fonctionnaire,189986,1,Est,1724222,6,aucun,rejeté
+50,66,M,veuf,0,chauffeur,282804,5,Hauts-Bassins,1921403,24,aucun,rejeté
+404,65,M,marié,8,commerçant,306909,2,Hauts-Bassins,1258468,3,aucun,approuvé
+840,61,F,divorcé,7,propriétaire_petite_entreprise,631058,13,Centre-Ouest,1329372,24,aucun,approuvé
+283,30,M,célibataire,5,étudiant,75243,0,Sahel,1863924,3,aucun,rejeté
+780,40,F,célibataire,7,chauffeur,646888,3,Sahel,1414170,24,aucun,rejeté
+108,34,F,célibataire,6,agriculteur,359278,11,Centre-Ouest,749983,12,aucun,rejeté
+481,52,F,veuf,5,propriétaire_petite_entreprise,448213,15,Est,750399,12,bon,approuvé
+130,46,M,célibataire,5,fonctionnaire,439226,26,Boucle du Mouhoun,487785,6,bon,approuvé
+499,34,F,veuf,2,commerçant,683970,10,Centre-Ouest,1153036,36,mauvais,rejeté
+228,63,F,divorcé,8,propriétaire_petite_entreprise,407631,0,Boucle du Mouhoun,81852,24,aucun,approuvé
+473,20,F,célibataire,4,sans_emploi,21470,0,Boucle du Mouhoun,567733,6,bon,rejeté
+947,55,F,veuf,3,enseignant,474215,2,Est,1864126,6,bon,rejeté
+333,36,F,célibataire,4,chauffeur,436210,15,Nord,1460295,36,aucun,approuvé
+83,62,F,veuf,7,étudiant,34382,0,Est,413339,24,aucun,rejeté
+454,59,M,divorcé,5,commerçant,396778,18,Centre-Ouest,1591037,18,bon,rejeté
+339,27,F,célibataire,6,étudiant,36986,0,Centre-Ouest,476674,36,bon,approuvé
+600,64,M,divorcé,5,artisan,519702,1,Nord,105182,6,mauvais,rejeté
+778,65,M,divorcé,6,enseignant,572696,5,Sahel,795742,36,aucun,approuvé
+928,19,F,divorcé,7,chauffeur,365259,14,Centre-Ouest,794700,3,aucun,rejeté
+911,52,F,célibataire,7,propriétaire_petite_entreprise,281324,7,Centre,1420614,36,aucun,rejeté
+44,58,M,veuf,8,propriétaire_petite_entreprise,99163,13,Boucle du Mouhoun,1818831,18,mauvais,rejeté
+429,47,M,veuf,6,enseignant,595563,29,Nord,1840146,18,aucun,approuvé
+514,69,F,divorcé,4,autre,557965,8,Sahel,899326,18,aucun,approuvé
+206,38,F,marié,3,sans_emploi,30379,0,Centre,1388486,18,mauvais,approuvé
+216,21,F,célibataire,6,chauffeur,792254,14,Hauts-Bassins,165359,12,aucun,rejeté
+233,34,M,veuf,2,agriculteur,229139,15,Hauts-Bassins,1755025,12,aucun,approuvé
+387,56,F,célibataire,5,chauffeur,121972,2,Est,231890,24,mauvais,rejeté
+36,22,M,célibataire,3,artisan,266507,15,Hauts-Bassins,826665,24,mauvais,rejeté
+330,51,M,divorcé,1,étudiant,30825,0,Centre-Ouest,1233765,6,aucun,approuvé
+73,45,M,veuf,5,chauffeur,427952,5,Sahel,310669,3,aucun,approuvé
+735,22,F,divorcé,0,propriétaire_petite_entreprise,471599,12,Sahel,524768,3,bon,rejeté
+681,25,M,divorcé,2,agriculteur,221549,5,Centre-Ouest,79092,12,bon,rejeté
+666,38,F,veuf,1,propriétaire_petite_entreprise,360580,3,Est,829085,3,bon,rejeté
+451,37,M,veuf,8,propriétaire_petite_entreprise,283459,18,Centre-Ouest,287330,36,bon,rejeté
+675,26,F,divorcé,1,sans_emploi,48560,0,Est,555421,18,mauvais,rejeté
+252,35,F,marié,3,agriculteur,327139,17,Nord,1851874,18,mauvais,rejeté
+437,59,F,veuf,2,autre,674151,17,Sahel,1958042,24,bon,rejeté
+234,26,F,veuf,0,étudiant,56598,0,Boucle du Mouhoun,1844687,12,aucun,rejeté
+882,60,M,veuf,8,propriétaire_petite_entreprise,199423,10,Sahel,845740,24,bon,approuvé
+891,24,F,marié,6,autre,673672,3,Hauts-Bassins,1968135,3,bon,approuvé
+685,57,M,veuf,5,enseignant,337644,30,Est,1736519,12,aucun,rejeté
+917,61,F,célibataire,8,artisan,381090,19,Boucle du Mouhoun,60564,24,mauvais,approuvé
+463,60,M,veuf,8,commerçant,500188,15,Sahel,386430,12,mauvais,approuvé
+777,27,M,divorcé,2,commerçant,218168,16,Centre-Ouest,439913,12,bon,rejeté
+817,37,F,marié,0,autre,271615,3,Sahel,1798827,24,mauvais,rejeté
+550,19,F,divorcé,0,artisan,588065,19,Sahel,1971458,6,bon,approuvé
+392,33,M,marié,5,commerçant,237478,12,Hauts-Bassins,1788460,36,aucun,approuvé
+353,45,M,veuf,7,agriculteur,466488,15,Centre,1043778,18,bon,approuvé
+758,46,M,divorcé,4,propriétaire_petite_entreprise,183435,19,Nord,1602712,6,bon,rejeté
+421,49,F,divorcé,3,agriculteur,466792,18,Nord,1158383,36,aucun,approuvé
+643,20,F,marié,8,agriculteur,139764,2,Centre-Ouest,1441449,6,bon,rejeté
+913,47,F,marié,0,autre,435252,6,Boucle du Mouhoun,1508716,36,mauvais,rejeté
+706,24,M,divorcé,2,chauffeur,776618,10,Boucle du Mouhoun,938513,12,aucun,approuvé
+934,63,M,veuf,3,propriétaire_petite_entreprise,318849,2,Boucle du Mouhoun,1962886,6,mauvais,rejeté
+734,37,F,divorcé,8,commerçant,734651,13,Centre,1133745,24,bon,approuvé
+631,66,F,veuf,0,enseignant,392113,11,Boucle du Mouhoun,309425,6,bon,approuvé
+861,26,M,célibataire,5,artisan,337180,2,Sahel,1924330,18,mauvais,rejeté
+540,65,M,marié,3,artisan,193956,15,Boucle du Mouhoun,1680650,24,bon,approuvé
+985,20,F,divorcé,8,artisan,112828,1,Hauts-Bassins,1449782,3,bon,rejeté
+194,68,F,divorcé,4,artisan,669085,7,Hauts-Bassins,1927541,18,aucun,approuvé
+557,43,M,célibataire,6,artisan,259631,12,Nord,1967936,12,aucun,rejeté
+407,28,M,veuf,4,autre,531830,4,Sahel,477244,36,bon,rejeté
+172,56,F,célibataire,0,commerçant,765947,4,Est,1397098,24,bon,rejeté
+450,34,F,célibataire,3,chauffeur,109639,15,Sahel,1823216,12,aucun,approuvé
+202,54,M,veuf,7,agriculteur,95147,4,Sahel,525584,18,bon,rejeté
+686,21,F,veuf,6,chauffeur,336412,10,Centre,840073,24,aucun,approuvé
+17,28,F,divorcé,0,chauffeur,501079,4,Est,156081,36,bon,rejeté
+796,26,M,divorcé,1,autre,602602,9,Nord,1575560,3,bon,approuvé
+280,47,M,veuf,6,étudiant,25585,0,Est,537030,36,aucun,rejeté
+419,60,F,célibataire,6,artisan,50589,5,Hauts-Bassins,1459020,36,bon,approuvé
+178,69,F,divorcé,3,commerçant,273782,5,Sahel,664805,12,mauvais,rejeté
+828,35,F,veuf,0,artisan,370828,0,Boucle du Mouhoun,1366327,12,bon,approuvé
+259,46,F,veuf,1,fonctionnaire,270234,15,Boucle du Mouhoun,979242,36,mauvais,rejeté
+843,61,M,divorcé,8,propriétaire_petite_entreprise,551984,18,Est,1042657,3,mauvais,rejeté
+458,64,M,marié,8,chauffeur,793180,18,Centre,360435,36,bon,rejeté
+602,38,M,divorcé,5,commerçant,431770,3,Sahel,1292222,6,aucun,approuvé
+976,32,M,veuf,7,propriétaire_petite_entreprise,663756,11,Boucle du Mouhoun,1691466,3,aucun,approuvé
+981,62,F,divorcé,1,propriétaire_petite_entreprise,620526,2,Centre,1569514,36,mauvais,rejeté
+64,42,M,veuf,2,commerçant,593020,18,Sahel,107108,24,bon,approuvé
+173,61,M,marié,2,chauffeur,269189,1,Boucle du Mouhoun,301051,6,bon,approuvé
+879,42,M,divorcé,1,enseignant,248938,16,Sahel,470531,12,aucun,approuvé
+379,47,M,divorcé,1,commerçant,468395,1,Sahel,1584227,6,bon,approuvé
+955,57,F,marié,4,étudiant,44578,0,Est,714956,24,bon,approuvé
+694,55,F,marié,8,artisan,277777,15,Centre,998319,36,mauvais,rejeté
+416,65,M,divorcé,3,étudiant,77530,0,Est,146143,36,bon,approuvé
+525,69,F,marié,6,autre,337542,1,Centre-Ouest,1849907,24,bon,approuvé
+121,31,M,marié,8,étudiant,43874,0,Sahel,567083,24,aucun,rejeté
+1000,65,F,célibataire,3,enseignant,590363,24,Hauts-Bassins,139342,18,aucun,approuvé
+431,53,F,célibataire,2,propriétaire_petite_entreprise,541793,12,Sahel,1730189,36,bon,rejeté
+433,22,F,divorcé,4,chauffeur,590841,3,Nord,94331,6,bon,approuvé
+380,54,F,divorcé,4,sans_emploi,29119,0,Est,256903,12,bon,rejeté
+933,23,M,divorcé,4,enseignant,537314,8,Centre-Ouest,1111385,12,aucun,approuvé
+871,28,F,célibataire,1,propriétaire_petite_entreprise,160360,1,Est,1054366,6,bon,approuvé
+62,46,F,marié,7,agriculteur,782729,16,Est,1415843,24,aucun,approuvé
+637,41,F,divorcé,8,étudiant,33275,0,Hauts-Bassins,637536,36,bon,approuvé
+583,26,M,célibataire,7,fonctionnaire,185362,18,Nord,1267933,18,aucun,rejeté
+705,30,M,célibataire,4,fonctionnaire,417206,6,Nord,1859345,3,aucun,approuvé
+611,42,M,célibataire,0,propriétaire_petite_entreprise,784265,9,Est,218600,36,bon,approuvé
+344,29,F,divorcé,7,autre,698966,19,Centre,817286,36,aucun,approuvé
+45,52,F,célibataire,3,artisan,682612,15,Centre,837494,24,aucun,rejeté
+369,52,M,veuf,4,artisan,136393,18,Centre,1960332,24,aucun,rejeté
+954,61,F,marié,7,propriétaire_petite_entreprise,686052,18,Boucle du Mouhoun,371243,36,aucun,rejeté
+829,20,M,marié,6,commerçant,702858,10,Centre,966283,36,aucun,rejeté
+61,32,M,divorcé,1,enseignant,506600,6,Centre,1982247,18,bon,rejeté
+290,27,M,célibataire,2,chauffeur,795728,11,Centre-Ouest,366275,24,mauvais,rejeté
+196,67,F,célibataire,3,étudiant,37153,0,Centre-Ouest,804444,24,aucun,rejeté
+9,22,F,divorcé,8,propriétaire_petite_entreprise,70535,11,Hauts-Bassins,888688,36,bon,rejeté
+76,57,F,veuf,0,artisan,148872,16,Centre,1870618,36,mauvais,rejeté
+376,47,M,veuf,3,enseignant,451494,16,Centre-Ouest,1570445,12,bon,rejeté
+700,57,M,divorcé,1,artisan,112178,18,Boucle du Mouhoun,119893,6,mauvais,approuvé
+572,48,F,célibataire,7,chauffeur,162026,18,Est,1818753,3,bon,approuvé
+366,46,M,veuf,5,commerçant,661825,7,Sahel,967472,36,aucun,rejeté
+716,23,F,divorcé,0,enseignant,471465,12,Centre-Ouest,81498,18,mauvais,rejeté
+765,70,F,célibataire,0,enseignant,152431,1,Centre,1305769,3,bon,approuvé
+262,47,F,célibataire,4,autre,244923,4,Sahel,995238,36,aucun,rejeté
+74,62,F,célibataire,5,autre,104323,18,Est,1279024,18,bon,rejeté
+109,33,F,veuf,8,commerçant,757912,11,Boucle du Mouhoun,1356170,6,bon,approuvé
+552,21,F,divorcé,1,artisan,61341,18,Hauts-Bassins,1992806,12,bon,rejeté
+408,18,F,veuf,2,propriétaire_petite_entreprise,729753,12,Sahel,539415,24,bon,rejeté
+68,40,F,divorcé,1,autre,653157,2,Sahel,1265502,3,aucun,approuvé
+984,65,M,divorcé,1,étudiant,35419,0,Hauts-Bassins,609865,6,aucun,rejeté
+576,62,F,célibataire,7,propriétaire_petite_entreprise,586774,5,Sahel,1811652,24,bon,rejeté
+530,41,F,célibataire,0,commerçant,512617,15,Est,1131900,6,bon,approuvé
+832,48,M,célibataire,6,chauffeur,375689,15,Boucle du Mouhoun,179188,12,aucun,rejeté
+902,69,M,marié,8,commerçant,773282,17,Centre-Ouest,1359281,6,bon,approuvé
+134,34,M,célibataire,7,commerçant,201779,6,Sahel,1815724,18,bon,rejeté
+605,27,M,marié,4,autre,238910,11,Hauts-Bassins,1075607,24,bon,approuvé
+186,56,F,divorcé,4,enseignant,207022,30,Nord,1047858,12,mauvais,rejeté
+10,44,M,célibataire,2,artisan,179182,13,Sahel,234064,24,mauvais,rejeté
+286,58,M,divorcé,1,fonctionnaire,417499,9,Est,350486,3,bon,approuvé
+949,62,M,veuf,6,agriculteur,488032,11,Est,1101636,18,bon,approuvé
+604,19,F,veuf,5,autre,141489,11,Est,1836357,24,bon,approuvé
+362,32,F,célibataire,1,commerçant,89522,17,Centre-Ouest,1523247,3,bon,approuvé
+651,30,M,marié,6,sans_emploi,29591,0,Centre-Ouest,50727,18,bon,approuvé
+946,46,M,divorcé,7,propriétaire_petite_entreprise,476841,2,Boucle du Mouhoun,1641604,12,aucun,approuvé
+789,19,M,veuf,0,enseignant,172076,17,Centre,300699,18,aucun,approuvé
+55,68,F,célibataire,8,commerçant,518007,17,Sahel,1324732,24,bon,rejeté
+523,44,M,célibataire,1,propriétaire_petite_entreprise,250809,0,Boucle du Mouhoun,583285,36,mauvais,rejeté
+114,30,M,marié,2,propriétaire_petite_entreprise,580659,16,Nord,1696836,18,aucun,rejeté
+271,25,M,divorcé,5,fonctionnaire,480170,5,Nord,1517310,36,bon,rejeté
+193,52,F,célibataire,4,enseignant,500484,8,Hauts-Bassins,191214,36,aucun,rejeté
+356,62,F,divorcé,3,autre,543516,2,Sahel,820050,36,aucun,rejeté
+830,48,M,divorcé,3,agriculteur,658408,10,Sahel,329916,6,aucun,rejeté
+410,64,M,célibataire,8,autre,374517,9,Nord,317598,3,bon,rejeté
+609,40,M,veuf,5,chauffeur,726093,0,Centre,71576,3,mauvais,approuvé
+268,29,F,célibataire,2,fonctionnaire,515209,16,Est,88635,18,aucun,approuvé
+986,21,M,veuf,4,sans_emploi,37320,0,Est,1881716,6,aucun,rejeté
+855,29,M,veuf,5,enseignant,522598,19,Centre,1821555,12,aucun,rejeté
+212,46,F,célibataire,3,agriculteur,563156,9,Nord,1993907,36,aucun,rejeté
+591,57,M,divorcé,0,sans_emploi,18832,0,Nord,62467,6,bon,rejeté
+314,38,M,veuf,2,fonctionnaire,240453,15,Est,258859,18,bon,rejeté
+341,67,F,divorcé,4,commerçant,195489,10,Hauts-Bassins,1892360,24,bon,approuvé
+872,34,F,célibataire,1,enseignant,236984,16,Est,405887,12,aucun,approuvé
+786,64,F,célibataire,3,commerçant,40559,9,Hauts-Bassins,917152,36,mauvais,rejeté
+94,36,F,marié,0,propriétaire_petite_entreprise,777334,17,Boucle du Mouhoun,1048748,3,mauvais,approuvé
+468,35,F,marié,4,autre,759211,10,Est,878282,6,bon,approuvé
+815,53,F,veuf,0,artisan,624172,0,Sahel,414716,18,mauvais,rejeté
+93,66,F,marié,5,fonctionnaire,531758,4,Centre,1675351,24,bon,approuvé
+517,34,F,marié,6,sans_emploi,16230,0,Centre-Ouest,1253639,36,aucun,rejeté
+866,20,F,veuf,8,enseignant,268642,14,Hauts-Bassins,245428,18,bon,rejeté
+757,58,F,divorcé,0,propriétaire_petite_entreprise,767662,0,Sahel,983432,12,bon,rejeté
+146,53,F,divorcé,1,enseignant,536821,7,Hauts-Bassins,1914434,12,bon,approuvé
+963,52,F,marié,6,étudiant,78806,0,Sahel,1223077,24,aucun,rejeté
+704,30,M,marié,6,sans_emploi,45794,0,Hauts-Bassins,387766,18,bon,approuvé
+47,59,M,marié,1,artisan,652380,4,Centre-Ouest,1387682,24,bon,rejeté
+531,21,F,divorcé,3,étudiant,28055,0,Boucle du Mouhoun,203706,18,bon,approuvé
+729,41,F,veuf,0,autre,550491,2,Centre,1932086,24,aucun,approuvé
+86,22,F,célibataire,7,autre,67632,8,Centre-Ouest,791426,24,bon,rejeté
+618,52,F,marié,5,enseignant,446952,23,Centre,633247,6,mauvais,rejeté
+215,48,F,célibataire,5,sans_emploi,45508,0,Est,1812999,12,bon,approuvé
+707,45,F,divorcé,8,sans_emploi,42250,0,Centre-Ouest,1740129,6,mauvais,rejeté
+191,50,F,marié,7,artisan,429878,1,Sahel,1842725,3,aucun,rejeté
+188,30,M,marié,1,artisan,580340,17,Nord,496636,18,bon,rejeté
+634,58,M,divorcé,4,fonctionnaire,256080,15,Boucle du Mouhoun,438742,6,bon,approuvé
+680,40,M,marié,6,artisan,451377,2,Est,812557,36,aucun,rejeté
+375,55,F,veuf,5,autre,410250,7,Est,1907447,12,bon,rejeté
+455,57,F,divorcé,3,chauffeur,386030,6,Sahel,138422,24,aucun,rejeté
+480,35,F,divorcé,0,fonctionnaire,294923,27,Est,961612,36,bon,approuvé
+164,21,F,célibataire,3,fonctionnaire,271999,10,Est,1555949,6,bon,rejeté
+960,23,F,veuf,7,agriculteur,747288,11,Centre,564060,12,bon,rejeté
+579,47,F,veuf,7,sans_emploi,36560,0,Sahel,108123,6,bon,approuvé
+653,21,F,célibataire,6,fonctionnaire,552431,26,Hauts-Bassins,661868,24,bon,rejeté
+590,65,F,divorcé,7,sans_emploi,26559,0,Nord,1822867,36,aucun,rejeté
+695,29,M,veuf,5,enseignant,543348,23,Centre,1429641,12,aucun,rejeté
+587,32,F,marié,1,artisan,572465,2,Sahel,1712805,6,bon,rejeté
+371,66,F,veuf,5,sans_emploi,40613,0,Sahel,799450,24,aucun,rejeté
+732,53,M,divorcé,7,autre,606819,15,Nord,1750891,18,aucun,approuvé
+75,55,M,marié,3,fonctionnaire,432272,6,Hauts-Bassins,764743,6,mauvais,rejeté
+35,18,F,célibataire,6,artisan,677717,2,Est,562153,12,aucun,approuvé
+835,25,F,veuf,4,étudiant,49657,0,Boucle du Mouhoun,1982919,12,mauvais,approuvé
+748,28,F,divorcé,4,enseignant,550007,4,Sahel,1936891,36,mauvais,approuvé
+254,26,M,divorcé,2,enseignant,406453,27,Nord,520529,24,bon,approuvé
+58,38,F,célibataire,0,fonctionnaire,466076,13,Est,596237,3,aucun,approuvé
+569,54,M,divorcé,1,enseignant,183635,20,Est,549730,24,bon,approuvé
+357,21,M,veuf,3,autre,432670,10,Sahel,1425645,12,aucun,approuvé
+2,19,F,veuf,5,commerçant,143355,0,Est,1446025,36,bon,rejeté
+886,36,F,divorcé,4,autre,119164,1,Boucle du Mouhoun,824508,12,bon,approuvé
+842,33,M,veuf,4,sans_emploi,17892,0,Boucle du Mouhoun,336539,24,bon,rejeté
+856,50,F,marié,3,artisan,729622,12,Est,1286855,36,mauvais,rejeté
+589,26,M,célibataire,2,artisan,247383,5,Est,66535,12,mauvais,rejeté
+53,41,F,célibataire,7,autre,610715,3,Hauts-Bassins,414167,6,bon,approuvé
+994,36,M,veuf,5,sans_emploi,37889,0,Sahel,155474,18,aucun,rejeté
+823,61,M,célibataire,1,commerçant,575580,6,Sahel,1440179,24,aucun,rejeté
+559,150,M,veuf,8,artisan,99000000,19,Centre-Ouest,447595,12,bon,rejeté
+428,34,F,veuf,4,étudiant,58724,0,Hauts-Bassins,677407,18,mauvais,rejeté
+490,48,F,marié,8,enseignant,499115,24,Est,152780,3,aucun,rejeté
+628,47,M,marié,1,fonctionnaire,342941,4,Centre,198620,18,bon,approuvé
+883,34,M,célibataire,5,agriculteur,590193,4,Hauts-Bassins,1129229,6,bon,rejeté
+999,58,F,veuf,7,agriculteur,189102,3,Centre-Ouest,909983,24,mauvais,rejeté
+690,56,M,marié,2,propriétaire_petite_entreprise,88113,7,Centre,984963,12,aucun,rejeté
+763,67,F,célibataire,1,agriculteur,760217,15,Boucle du Mouhoun,956073,18,mauvais,rejeté
+29,56,M,marié,6,autre,275362,17,Centre,847079,24,bon,rejeté
+522,23,M,marié,5,agriculteur,110934,12,Boucle du Mouhoun,807582,18,aucun,rejeté
+596,63,F,marié,1,chauffeur,780686,16,Nord,207255,24,aucun,rejeté
+445,56,M,marié,5,agriculteur,112684,13,Nord,1964566,36,bon,rejeté
+669,68,F,marié,1,étudiant,77572,0,Centre-Ouest,182385,12,aucun,rejeté
+82,50,F,veuf,5,commerçant,72265,4,Sahel,1084057,3,bon,approuvé
+48,42,M,veuf,3,chauffeur,784699,18,Nord,298683,36,aucun,approuvé
+77,61,F,marié,4,étudiant,56298,0,Centre,1819377,18,bon,rejeté
+614,62,F,célibataire,0,étudiant,79902,0,Hauts-Bassins,856434,18,bon,rejeté
+577,36,M,veuf,6,chauffeur,343806,9,Hauts-Bassins,1900131,3,bon,approuvé
+867,61,F,divorcé,8,sans_emploi,40108,0,Centre-Ouest,1547986,6,bon,rejeté
+78,46,F,divorcé,8,artisan,391005,2,Nord,1638388,24,bon,rejeté
+839,22,F,divorcé,6,autre,391814,13,Sahel,1492476,24,aucun,approuvé
+967,39,M,divorcé,7,sans_emploi,32993,0,Sahel,426606,18,aucun,rejeté
+165,47,M,divorcé,6,propriétaire_petite_entreprise,522238,16,Hauts-Bassins,779532,6,aucun,approuvé
+209,35,M,veuf,0,sans_emploi,48787,0,Centre-Ouest,652272,3,aucun,approuvé
+12,60,M,veuf,6,fonctionnaire,529989,28,Hauts-Bassins,1469945,24,bon,approuvé
+767,69,F,veuf,0,agriculteur,184811,9,Boucle du Mouhoun,1278004,36,aucun,rejeté
+943,55,F,divorcé,8,chauffeur,799087,6,Boucle du Mouhoun,1266733,24,aucun,approuvé
+728,64,F,veuf,1,sans_emploi,46639,0,Est,1717108,18,aucun,rejeté
+940,41,F,marié,7,autre,541503,7,Est,553623,3,aucun,approuvé
+295,22,F,veuf,3,commerçant,297354,14,Est,361573,3,bon,rejeté
+971,23,M,marié,2,propriétaire_petite_entreprise,278217,18,Sahel,1991042,18,mauvais,rejeté
+386,49,F,veuf,0,agriculteur,635333,18,Nord,964424,18,mauvais,rejeté
+808,36,M,célibataire,0,commerçant,734519,4,Sahel,1549067,36,aucun,approuvé
+453,30,F,célibataire,3,étudiant,40690,0,Boucle du Mouhoun,1662210,18,mauvais,approuvé
+220,23,F,marié,1,agriculteur,743305,4,Hauts-Bassins,588645,3,aucun,approuvé
+760,62,M,divorcé,3,agriculteur,592355,18,Centre,516441,18,,rejeté
+701,66,F,célibataire,6,propriétaire_petite_entreprise,772288,16,Est,1519204,24,aucun,approuvé
+581,38,M,célibataire,0,autre,499822,6,Est,769701,6,aucun,rejeté
+239,36,M,veuf,7,chauffeur,598516,3,Centre,885869,3,bon,approuvé
+511,49,M,veuf,8,propriétaire_petite_entreprise,539387,5,Centre-Ouest,1366303,6,bon,approuvé
+296,43,M,marié,2,artisan,751111,7,Est,1367726,18,aucun,rejeté
+714,27,M,veuf,5,enseignant,350919,12,Sahel,249542,12,aucun,approuvé
+500,56,F,divorcé,7,fonctionnaire,454915,16,Centre-Ouest,513930,3,aucun,approuvé
+199,35,M,célibataire,4,étudiant,53069,0,Centre-Ouest,394710,18,bon,rejeté
+465,70,M,divorcé,0,autre,45209,12,Centre-Ouest,1709461,18,bon,approuvé
+367,29,M,célibataire,2,fonctionnaire,440446,16,Nord,1052252,3,aucun,rejeté
+343,22,M,marié,4,commerçant,464390,2,Nord,1408126,18,mauvais,approuvé
+438,19,M,veuf,1,chauffeur,500829,19,Centre-Ouest,1462891,3,bon,rejeté
+163,64,M,veuf,8,enseignant,289978,19,Boucle du Mouhoun,1668243,24,mauvais,approuvé
+329,22,F,marié,8,artisan,546961,19,Centre,1506048,12,mauvais,rejeté
+738,29,F,marié,5,chauffeur,338113,1,Hauts-Bassins,1814239,18,aucun,rejeté
+476,45,F,divorcé,8,fonctionnaire,544295,27,Boucle du Mouhoun,498648,18,mauvais,rejeté
+152,19,M,divorcé,4,enseignant,412425,29,Centre,220102,12,mauvais,rejeté
+175,34,F,veuf,7,enseignant,291826,16,Centre-Ouest,1197116,18,aucun,rejeté
+378,48,M,célibataire,7,artisan,633629,13,Est,1506507,24,aucun,rejeté
+720,59,M,divorcé,0,commerçant,529847,0,Sahel,217809,24,aucun,rejeté
+338,50,M,veuf,1,propriétaire_petite_entreprise,525001,17,Centre-Ouest,1037410,18,aucun,approuvé
+265,61,M,divorcé,3,fonctionnaire,497520,28,Boucle du Mouhoun,206951,24,mauvais,rejeté
+65,23,M,célibataire,8,autre,788589,1,Centre,141865,24,bon,rejeté
+563,51,M,marié,3,sans_emploi,40009,0,Boucle du Mouhoun,864107,6,aucun,rejeté
+936,59,F,célibataire,1,autre,317845,16,Hauts-Bassins,789782,18,aucun,approuvé
+773,23,F,célibataire,4,agriculteur,227167,19,Sahel,1955888,18,aucun,rejeté
+107,52,M,marié,4,fonctionnaire,366541,6,Hauts-Bassins,335195,12,bon,rejeté
+803,46,F,marié,3,agriculteur,766797,17,Sahel,363760,36,aucun,rejeté
+844,19,M,divorcé,1,agriculteur,212905,2,Centre-Ouest,1698715,12,bon,approuvé
+446,64,F,marié,4,enseignant,173382,8,Sahel,1952797,12,bon,approuvé
+983,37,M,célibataire,3,artisan,705275,13,Est,1449433,36,mauvais,rejeté
+534,24,F,marié,3,étudiant,53980,0,Centre-Ouest,195213,3,bon,rejeté
+743,19,F,veuf,8,fonctionnaire,224408,13,Boucle du Mouhoun,1649572,36,bon,approuvé
+535,25,M,divorcé,5,enseignant,229183,7,Centre,1665181,12,bon,approuvé
+237,47,M,marié,3,agriculteur,179544,7,Centre-Ouest,513001,36,bon,approuvé
+996,35,M,veuf,4,artisan,202776,7,Est,1057227,18,bon,rejeté
+325,36,M,marié,3,étudiant,27291,0,Centre,181184,18,bon,approuvé
+4,31,F,marié,8,autre,108148,1,Est,1350571,18,bon,approuvé
+301,42,F,divorcé,6,propriétaire_petite_entreprise,425893,17,Hauts-Bassins,178389,18,aucun,approuvé
+627,22,M,célibataire,8,autre,704607,0,Centre-Ouest,1119634,36,bon,approuvé
+30,37,M,veuf,2,propriétaire_petite_entreprise,164046,1,Hauts-Bassins,716326,36,bon,rejeté
+521,36,F,marié,1,agriculteur,775716,11,Centre-Ouest,1890277,3,aucun,approuvé
+726,29,F,divorcé,6,sans_emploi,23837,0,Sahel,1245055,36,bon,rejeté
+324,48,F,veuf,6,commerçant,367031,18,Centre,1315636,36,aucun,rejeté
+132,61,F,veuf,4,artisan,461818,19,Centre-Ouest,1460706,3,mauvais,rejeté
+988,60,M,célibataire,3,fonctionnaire,276372,26,Boucle du Mouhoun,443522,24,bon,approuvé
+405,50,F,marié,3,sans_emploi,46508,0,Centre,1376980,36,aucun,rejeté
+474,18,F,divorcé,7,étudiant,72592,0,Centre,1787009,18,aucun,rejeté
+498,59,M,divorcé,6,autre,50785,3,Centre,898389,6,aucun,rejeté
+543,20,F,divorcé,2,agriculteur,165865,12,Hauts-Bassins,1522617,24,aucun,rejeté
+289,66,F,marié,4,artisan,281225,13,Nord,856564,36,bon,approuvé
+939,53,M,veuf,4,commerçant,450398,11,Centre,994413,18,aucun,rejeté
+731,26,F,célibataire,0,agriculteur,390002,5,Nord,180334,6,aucun,rejeté
+21,29,M,célibataire,6,sans_emploi,22400,0,Sahel,748002,12,aucun,rejeté
+31,39,F,marié,5,agriculteur,110313,5,Boucle du Mouhoun,1456005,12,bon,rejeté
+409,56,M,marié,4,étudiant,49345,0,Boucle du Mouhoun,182659,3,aucun,approuvé
+266,68,M,célibataire,2,commerçant,533671,18,Nord,1550134,24,bon,rejeté
+869,36,M,célibataire,0,fonctionnaire,188725,8,Est,889812,3,bon,approuvé
+253,68,M,célibataire,6,commerçant,536574,8,Hauts-Bassins,494865,12,mauvais,rejeté
+120,52,F,marié,0,étudiant,44578,0,Sahel,1422133,24,bon,approuvé
+948,57,F,veuf,6,commerçant,722357,13,Est,1324869,36,aucun,approuvé
+790,21,M,marié,4,autre,290703,10,Boucle du Mouhoun,167907,36,aucun,rejeté
+150,20,F,marié,8,agriculteur,456715,0,Centre,263567,36,bon,rejeté
+824,31,M,divorcé,6,commerçant,140588,9,Centre,1030812,3,mauvais,approuvé
+860,46,F,marié,2,autre,549220,18,Nord,121325,12,aucun,approuvé
+377,65,M,célibataire,6,étudiant,23327,0,Boucle du Mouhoun,997272,12,bon,rejeté
+961,42,F,célibataire,5,agriculteur,335673,13,Centre-Ouest,1072936,36,aucun,approuvé
+526,64,F,divorcé,7,sans_emploi,37559,0,Boucle du Mouhoun,193933,12,aucun,rejeté
+849,67,F,veuf,8,propriétaire_petite_entreprise,448177,7,Sahel,627158,3,bon,rejeté
+154,64,M,marié,6,chauffeur,52115,12,Est,440479,6,bon,rejeté
+160,32,M,divorcé,8,agriculteur,179999,16,Sahel,989947,36,bon,rejeté
+617,65,M,marié,8,propriétaire_petite_entreprise,320195,19,Hauts-Bassins,1688004,18,bon,approuvé
+556,67,M,marié,7,propriétaire_petite_entreprise,667751,2,Boucle du Mouhoun,1987135,18,aucun,approuvé
+930,63,M,divorcé,2,fonctionnaire,437374,11,Boucle du Mouhoun,1057705,12,bon,approuvé
+13,61,F,veuf,6,sans_emploi,38776,0,Centre,1751240,12,mauvais,rejeté
+382,41,M,veuf,6,chauffeur,740033,10,Est,184445,36,bon,approuvé
+279,27,F,veuf,7,chauffeur,589523,17,Centre-Ouest,1261569,18,bon,approuvé
+811,43,M,marié,3,autre,339840,9,Centre,1035730,18,bon,approuvé
+6,35,F,veuf,1,autre,263165,3,Centre-Ouest,1000110,36,bon,approuvé
+989,43,M,veuf,1,sans_emploi,45013,0,Sahel,1439068,24,bon,rejeté
+374,60,M,veuf,7,chauffeur,699987,5,Sahel,1597419,6,mauvais,rejeté
+992,36,M,veuf,5,artisan,456232,0,Nord,1552079,12,aucun,approuvé
+342,41,F,veuf,0,propriétaire_petite_entreprise,337986,13,Centre-Ouest,1718849,3,bon,approuvé
+893,38,F,veuf,1,enseignant,305223,5,Nord,1454668,18,aucun,rejeté
+721,29,F,veuf,1,agriculteur,432573,0,Centre-Ouest,1183859,24,bon,approuvé
+566,68,M,marié,6,étudiant,41168,0,Est,1531177,3,aucun,rejeté
+827,36,F,célibataire,1,autre,546767,4,Boucle du Mouhoun,1039516,24,bon,rejeté
+915,57,M,célibataire,0,enseignant,490641,4,Nord,636400,3,bon,approuvé
+912,44,M,veuf,2,chauffeur,535926,0,Est,903009,18,bon,rejeté
+918,23,M,marié,7,sans_emploi,29298,0,Est,367972,24,aucun,approuvé
+722,33,F,célibataire,7,chauffeur,555609,1,Centre-Ouest,748093,3,bon,approuvé
+389,46,M,célibataire,3,sans_emploi,41910,0,Centre-Ouest,284196,6,mauvais,rejeté
+276,55,F,marié,7,agriculteur,624054,1,Hauts-Bassins,237771,36,bon,rejeté
+668,29,M,marié,1,propriétaire_petite_entreprise,713616,6,Centre-Ouest,1726443,36,bon,rejeté
+725,39,F,marié,0,agriculteur,363923,18,Est,1215179,24,bon,rejeté
+571,68,M,veuf,0,agriculteur,412454,13,Nord,1095533,24,bon,approuvé
+316,33,F,marié,4,chauffeur,304852,7,Centre,1418335,12,mauvais,approuvé
+875,70,F,marié,5,autre,179728,13,Centre-Ouest,1982099,12,aucun,rejeté
+414,61,M,divorcé,2,fonctionnaire,239424,3,Sahel,199395,18,aucun,approuvé
+793,42,M,divorcé,3,enseignant,217381,23,Boucle du Mouhoun,152416,24,bon,rejeté
+305,44,M,célibataire,2,autre,108323,8,Centre-Ouest,1663559,12,aucun,rejeté
+544,19,F,célibataire,1,chauffeur,593351,18,Sahel,1478926,3,aucun,approuvé
+482,39,M,marié,7,artisan,373720,8,Centre,1653205,12,aucun,approuvé
+312,41,F,marié,3,fonctionnaire,297745,25,Centre,187686,24,bon,approuvé
+133,55,M,marié,2,agriculteur,278360,11,Hauts-Bassins,481374,18,mauvais,approuvé
+646,44,M,marié,7,agriculteur,488934,13,Nord,1932226,18,mauvais,rejeté
+358,48,F,marié,7,sans_emploi,41531,0,Centre,984137,6,aucun,rejeté
+606,54,M,veuf,7,propriétaire_petite_entreprise,395050,1,Centre-Ouest,93162,36,mauvais,approuvé
+16,40,M,veuf,0,agriculteur,297426,1,Nord,887291,6,aucun,rejeté
+770,56,F,célibataire,6,étudiant,58699,0,Centre-Ouest,342759,12,mauvais,approuvé
+3,59,F,veuf,2,propriétaire_petite_entreprise,368947,2,Nord,578178,24,mauvais,rejeté
+269,55,M,célibataire,7,propriétaire_petite_entreprise,323022,10,Centre,1989954,6,aucun,rejeté
+477,65,M,marié,7,chauffeur,644111,15,Boucle du Mouhoun,396717,24,bon,approuvé
+560,59,M,veuf,5,enseignant,511652,1,Boucle du Mouhoun,586119,3,aucun,approuvé
+541,40,M,célibataire,8,fonctionnaire,475724,6,Centre,96233,24,aucun,rejeté
+647,57,M,divorcé,2,commerçant,794534,4,Nord,1621897,24,aucun,rejeté
+561,32,F,divorcé,4,fonctionnaire,449189,19,Hauts-Bassins,1300699,36,aucun,rejeté
+20,48,F,marié,2,propriétaire_petite_entreprise,348987,15,Hauts-Bassins,1058239,3,mauvais,rejeté
+310,59,F,divorcé,1,enseignant,432844,8,Centre,1271999,12,mauvais,rejeté
+345,59,M,marié,6,agriculteur,63408,8,Centre-Ouest,687938,24,mauvais,rejeté
+460,55,F,divorcé,8,autre,141894,16,Hauts-Bassins,1654592,3,bon,approuvé
+230,45,M,célibataire,3,chauffeur,135665,5,Sahel,1360267,18,aucun,rejeté
+309,68,M,divorcé,2,fonctionnaire,216668,28,Boucle du Mouhoun,270462,6,aucun,rejeté
+126,60,M,marié,6,commerçant,452003,1,Centre-Ouest,1287580,24,bon,approuvé
+350,36,M,marié,7,autre,310784,17,Hauts-Bassins,1497410,24,aucun,approuvé
+470,62,F,veuf,4,propriétaire_petite_entreprise,660740,9,Nord,1991983,12,bon,approuvé
+433,22,F,divorcé,4,chauffeur,590841,3,Nord,94331,6,bon,approuvé
+138,63,F,divorcé,5,chauffeur,660635,19,Centre,386585,6,bon,approuvé
+81,68,F,marié,3,agriculteur,99379,6,Sahel,148723,24,bon,approuvé
+703,40,M,marié,4,propriétaire_petite_entreprise,470423,15,Centre,1321179,6,aucun,approuvé
+814,37,F,célibataire,5,agriculteur,666776,5,Est,281773,18,aucun,approuvé
+826,18,M,veuf,3,artisan,451742,8,Sahel,1459277,24,bon,rejeté
+771,66,M,marié,1,commerçant,793241,7,Centre-Ouest,1303405,36,aucun,rejeté
+426,68,F,divorcé,4,autre,349509,11,Sahel,1254654,6,mauvais,rejeté
+881,52,M,divorcé,0,enseignant,452865,26,Sahel,525958,18,aucun,approuvé
+176,61,M,célibataire,4,enseignant,367029,22,Hauts-Bassins,1357079,3,aucun,approuvé
+663,43,F,marié,3,enseignant,572275,22,Hauts-Bassins,888821,12,aucun,approuvé
+88,32,M,divorcé,8,artisan,97545,19,Centre,1070020,6,bon,approuvé
+516,52,F,marié,5,enseignant,168557,29,Sahel,384248,6,bon,approuvé
+638,23,F,divorcé,2,chauffeur,421382,7,Hauts-Bassins,1115560,24,mauvais,rejeté
+249,34,F,célibataire,2,propriétaire_petite_entreprise,351478,8,Boucle du Mouhoun,1692892,12,bon,rejeté
+359,69,M,divorcé,4,fonctionnaire,584219,29,Sahel,1971606,18,bon,rejeté
+214,42,F,célibataire,7,autre,704917,6,Sahel,1002246,18,aucun,approuvé
+982,64,F,célibataire,0,propriétaire_petite_entreprise,242668,0,Centre-Ouest,1496092,12,mauvais,rejeté
+603,45,M,célibataire,8,chauffeur,697346,18,Hauts-Bassins,988193,36,aucun,approuvé
+697,24,F,célibataire,5,propriétaire_petite_entreprise,723565,6,Centre-Ouest,885544,24,mauvais,approuvé
+599,45,M,divorcé,3,étudiant,51932,0,Sahel,1397421,6,aucun,rejeté
+613,34,M,célibataire,4,enseignant,490716,30,Centre,1565266,36,aucun,rejeté
+766,30,F,marié,2,étudiant,58636,0,Sahel,1858570,36,bon,approuvé
+897,61,M,veuf,7,propriétaire_petite_entreprise,705582,5,Nord,1515741,24,mauvais,rejeté
+213,52,M,veuf,8,enseignant,192821,9,Centre-Ouest,591357,18,bon,rejeté
+754,31,F,célibataire,6,enseignant,445657,14,Centre-Ouest,263933,3,mauvais,rejeté
+650,37,M,célibataire,7,étudiant,70933,0,Centre,678935,6,aucun,rejeté
+493,26,F,célibataire,2,artisan,290231,12,Est,591220,6,aucun,rejeté
+993,52,M,marié,7,chauffeur,290476,11,Centre-Ouest,1768626,18,mauvais,rejeté
+336,21,M,divorcé,8,autre,763858,16,Sahel,1189752,6,aucun,rejeté
+712,44,M,célibataire,4,autre,605836,13,Sahel,1037886,12,aucun,approuvé
+519,61,M,célibataire,5,étudiant,43065,0,Est,1766288,18,aucun,rejeté
+71,51,M,veuf,5,artisan,461240,0,Nord,994789,24,bon,approuvé
+711,46,F,veuf,7,fonctionnaire,160514,1,Hauts-Bassins,1361822,36,bon,approuvé
+833,68,F,veuf,2,agriculteur,113631,15,Nord,535825,36,bon,rejeté
+679,18,M,veuf,0,étudiant,21823,0,Nord,1963616,36,mauvais,approuvé
+503,69,M,marié,2,enseignant,321277,16,Nord,1411212,3,bon,rejeté
+649,65,M,célibataire,2,fonctionnaire,385851,30,Nord,1630821,24,bon,rejeté
+155,18,M,veuf,5,artisan,674965,14,Hauts-Bassins,98320,6,bon,approuvé
+937,58,F,marié,5,sans_emploi,47875,0,Nord,960284,12,aucun,rejeté
+49,20,M,célibataire,1,autre,70355,7,Nord,206542,3,aucun,approuvé
+956,64,F,célibataire,6,autre,114442,14,Hauts-Bassins,1678462,24,aucun,rejeté
+749,38,F,veuf,3,sans_emploi,34971,0,Est,279192,24,aucun,rejeté
+210,32,F,divorcé,6,sans_emploi,18471,0,Nord,1743176,18,bon,approuvé
+110,33,M,célibataire,6,autre,358420,6,Centre-Ouest,1791134,24,aucun,approuvé
+43,40,M,divorcé,8,agriculteur,674736,19,Centre,1018021,24,aucun,approuvé
+977,60,F,divorcé,7,propriétaire_petite_entreprise,72175,11,Boucle du Mouhoun,883230,3,bon,approuvé
+520,40,M,veuf,4,propriétaire_petite_entreprise,238763,14,Hauts-Bassins,482941,24,bon,approuvé
+204,29,M,marié,8,commerçant,604660,19,Sahel,1790687,12,aucun,approuvé
+845,65,F,veuf,1,enseignant,560789,21,Boucle du Mouhoun,1155070,3,bon,rejeté
+104,46,M,divorcé,7,enseignant,372320,27,Boucle du Mouhoun,278071,12,aucun,rejeté
+42,54,M,veuf,2,agriculteur,125999,3,Hauts-Bassins,120640,36,mauvais,rejeté
+168,27,M,divorcé,1,artisan,235246,16,Sahel,561083,6,mauvais,approuvé
+551,25,M,marié,4,autre,474352,10,Hauts-Bassins,1544201,6,aucun,rejeté
+903,68,F,célibataire,7,fonctionnaire,287046,12,Centre,595501,18,aucun,approuvé
+979,35,M,marié,7,étudiant,45198,0,Nord,203560,18,bon,rejeté
+106,51,M,marié,1,artisan,664712,8,Centre,891344,3,aucun,approuvé
+885,51,M,marié,3,propriétaire_petite_entreprise,113527,15,Nord,799980,18,aucun,approuvé
+66,39,M,veuf,0,autre,628579,0,Centre,522930,24,aucun,rejeté
+434,21,M,marié,2,sans_emploi,25068,0,Nord,937198,12,aucun,rejeté
+467,29,M,célibataire,0,artisan,720206,1,Est,842038,24,bon,approuvé
+60,34,F,divorcé,6,artisan,525450,18,Boucle du Mouhoun,655605,18,aucun,rejeté
+764,32,M,veuf,1,commerçant,287066,9,Sahel,1161766,3,bon,rejeté
+536,62,F,divorcé,2,enseignant,309484,26,Sahel,1591633,36,aucun,rejeté
+664,25,M,divorcé,4,commerçant,681462,17,Centre-Ouest,351173,6,aucun,approuvé
+853,40,M,divorcé,0,fonctionnaire,590919,16,Centre,273734,18,mauvais,rejeté
+806,30,F,célibataire,6,fonctionnaire,292181,7,Centre,1765872,24,bon,approuvé
+25,62,M,marié,7,commerçant,400032,14,Centre,1848596,18,aucun,approuvé
+723,54,M,marié,5,propriétaire_petite_entreprise,169065,10,Sahel,567257,12,aucun,approuvé
+962,51,F,divorcé,5,commerçant,352499,7,Nord,320855,3,bon,approuvé
+762,42,M,veuf,0,agriculteur,134488,7,Nord,1766612,3,aucun,rejeté
+776,43,M,veuf,7,commerçant,380459,3,Hauts-Bassins,1022048,18,mauvais,rejeté
+662,28,M,célibataire,6,enseignant,228422,19,Est,1061214,12,bon,approuvé
+876,42,F,marié,6,artisan,120522,6,Centre,169107,3,bon,approuvé
+699,40,F,marié,5,chauffeur,429821,14,Hauts-Bassins,1554227,24,aucun,rejeté
+841,50,F,marié,2,enseignant,338392,3,Est,1467285,36,bon,approuvé
+442,45,F,célibataire,6,étudiant,47540,0,Hauts-Bassins,1379773,36,aucun,rejeté
+565,39,F,célibataire,8,enseignant,430790,2,Centre,1398055,36,bon,rejeté
+156,43,F,divorcé,7,agriculteur,528011,7,Centre,366205,18,aucun,rejeté
+858,47,F,marié,6,fonctionnaire,422028,2,Est,99810,6,aucun,rejeté
+257,47,F,veuf,1,fonctionnaire,365234,28,Est,614046,3,mauvais,rejeté
+567,47,F,marié,3,fonctionnaire,247493,17,Centre-Ouest,1595329,3,aucun,approuvé
+616,35,F,divorcé,8,autre,148721,6,Sahel,1275766,12,bon,approuvé
+904,61,M,marié,6,chauffeur,359767,18,Sahel,1470003,12,aucun,approuvé
+459,33,F,marié,3,étudiant,68344,0,Sahel,851125,6,aucun,rejeté
+368,28,F,divorcé,4,fonctionnaire,576149,14,Hauts-Bassins,495872,18,bon,rejeté
+51,38,M,veuf,4,enseignant,241362,19,Est,1077512,6,bon,approuvé
+144,58,M,divorcé,2,fonctionnaire,588716,29,Centre-Ouest,1678094,3,aucun,rejeté
+246,23,F,divorcé,7,fonctionnaire,497515,10,Centre,1209608,24,mauvais,rejeté
+181,42,M,marié,0,enseignant,354894,14,Centre,1320893,36,aucun,rejeté
+57,23,F,célibataire,4,artisan,275365,2,Nord,860006,24,aucun,approuvé
+129,18,F,marié,7,commerçant,719181,14,Nord,726555,18,aucun,approuvé
+612,70,F,marié,1,propriétaire_petite_entreprise,524353,11,Centre-Ouest,1984116,18,aucun,rejeté
+475,31,M,veuf,8,propriétaire_petite_entreprise,54506,5,Boucle du Mouhoun,1212180,12,bon,approuvé
+171,49,M,célibataire,3,étudiant,66820,0,Centre,254451,12,mauvais,rejeté
+688,48,M,marié,7,agriculteur,575827,9,Est,982196,3,bon,rejeté
+218,66,M,divorcé,8,artisan,593343,11,Centre,1760524,3,bon,approuvé
+131,30,M,divorcé,6,enseignant,594191,2,Boucle du Mouhoun,1439517,18,aucun,rejeté
+504,31,F,divorcé,5,commerçant,161635,7,Boucle du Mouhoun,1152210,36,aucun,rejeté
+137,48,F,veuf,8,agriculteur,91195,5,Centre,342231,12,mauvais,rejeté
+601,68,M,veuf,2,étudiant,26207,0,Nord,85187,12,bon,rejeté
+953,35,M,divorcé,1,sans_emploi,36140,0,Hauts-Bassins,874356,3,mauvais,rejeté
+568,38,F,veuf,6,chauffeur,347124,19,Boucle du Mouhoun,1928166,18,bon,approuvé
+644,38,M,marié,5,propriétaire_petite_entreprise,501823,11,Est,493931,24,aucun,approuvé
+427,19,F,divorcé,7,propriétaire_petite_entreprise,595710,14,Boucle du Mouhoun,324349,18,mauvais,rejeté
+622,68,F,marié,2,sans_emploi,39207,0,Est,1184731,24,mauvais,rejeté
+916,33,F,marié,5,agriculteur,275067,16,Nord,1279362,6,mauvais,approuvé
+898,25,F,divorcé,0,commerçant,251284,10,Est,1802748,12,bon,rejeté
+70,64,F,marié,7,étudiant,35728,0,Est,646562,6,bon,rejeté
+117,54,M,célibataire,5,propriétaire_petite_entreprise,751998,13,Sahel,1783693,24,aucun,approuvé
+444,53,F,marié,5,fonctionnaire,560262,13,Sahel,583903,12,aucun,approuvé
+864,69,F,veuf,1,étudiant,68926,0,Sahel,1471953,3,aucun,rejeté
+221,56,F,veuf,7,étudiant,74565,0,Est,120202,6,aucun,approuvé
+901,23,M,célibataire,3,commerçant,761243,5,Centre,1397931,3,aucun,approuvé
+741,21,F,divorcé,6,agriculteur,582994,18,Centre,1395349,24,aucun,rejeté
+185,63,M,divorcé,0,enseignant,196851,7,Centre,1010612,18,bon,approuvé
+969,69,F,veuf,4,commerçant,323083,16,Centre,466462,6,mauvais,rejeté
+285,42,F,célibataire,4,enseignant,517570,19,Est,1951860,6,bon,approuvé
+859,33,F,divorcé,6,autre,572669,6,Est,112999,18,aucun,approuvé
+555,29,F,divorcé,7,sans_emploi,18044,0,Nord,1104212,12,aucun,approuvé
+987,57,M,veuf,2,autre,362666,7,Centre,1041596,24,bon,approuvé
+112,62,F,divorcé,4,étudiant,51705,0,Boucle du Mouhoun,859942,18,mauvais,rejeté
+303,56,M,divorcé,3,étudiant,42357,0,Nord,1598373,18,bon,approuvé
+623,34,F,marié,0,artisan,359849,8,Centre,1750768,18,bon,rejeté
+207,69,F,veuf,7,commerçant,56029,17,Sahel,1293294,18,aucun,approuvé
+422,39,F,divorcé,2,sans_emploi,17123,0,Boucle du Mouhoun,815197,3,mauvais,approuvé
+654,34,M,célibataire,0,autre,230861,19,Centre-Ouest,301666,24,mauvais,rejeté
+306,24,M,divorcé,3,enseignant,258125,3,Sahel,1102272,12,bon,rejeté
+991,27,M,divorcé,6,enseignant,366461,24,Centre-Ouest,1033682,3,bon,rejeté
+115,27,F,célibataire,6,enseignant,293748,1,Centre-Ouest,1839616,12,,rejeté
+582,56,M,célibataire,1,étudiant,47445,0,Boucle du Mouhoun,1083981,6,bon,rejeté
+593,62,F,célibataire,7,autre,521632,7,Centre-Ouest,1757343,24,bon,approuvé
+118,25,F,célibataire,5,artisan,366898,12,Centre-Ouest,913561,12,bon,approuvé
+219,24,F,divorcé,0,agriculteur,246487,1,Est,728841,12,bon,approuvé
+899,65,M,marié,7,propriétaire_petite_entreprise,716257,11,Nord,1951965,12,aucun,rejeté
+594,24,M,veuf,3,commerçant,244354,7,Boucle du Mouhoun,1925530,24,mauvais,approuvé
+5,31,M,veuf,1,étudiant,43939,0,Hauts-Bassins,1558349,36,bon,approuvé
+834,60,F,veuf,5,enseignant,395191,9,Hauts-Bassins,1171153,36,mauvais,rejeté
+272,39,M,marié,2,chauffeur,583625,9,Centre-Ouest,1885284,18,aucun,approuvé
+854,20,M,célibataire,6,agriculteur,650864,8,Nord,785062,24,bon,rejeté
+91,24,M,veuf,8,agriculteur,797907,7,Centre,1250454,3,bon,approuvé
+658,44,F,célibataire,1,sans_emploi,43251,0,Nord,710284,36,mauvais,rejeté
+820,42,F,célibataire,6,étudiant,23409,0,Hauts-Bassins,696004,3,aucun,rejeté
+539,36,F,veuf,5,enseignant,153089,12,Est,1405898,36,mauvais,rejeté
+941,25,M,célibataire,2,propriétaire_petite_entreprise,783725,14,Hauts-Bassins,852364,12,bon,rejeté
+443,29,F,veuf,5,enseignant,229267,22,Centre-Ouest,486862,24,aucun,rejeté
+8,18,M,divorcé,8,étudiant,22027,0,Boucle du Mouhoun,186330,12,aucun,rejeté
+337,70,M,divorcé,3,agriculteur,259128,13,Nord,55039,6,bon,rejeté
+831,22,M,marié,6,étudiant,72675,0,Boucle du Mouhoun,1317699,12,mauvais,rejeté
+952,70,F,marié,4,agriculteur,71912,19,Nord,540913,18,bon,approuvé
+235,38,M,célibataire,4,artisan,412013,19,Centre-Ouest,1284915,18,bon,approuvé
+693,29,M,célibataire,8,propriétaire_petite_entreprise,273867,6 ans,Hauts-Bassins,1049647,36,aucun,approuvé
+920,37,M,marié,7,étudiant,27971,0,Centre-Ouest,1877791,18,aucun,approuvé
+180,69,F,célibataire,4,fonctionnaire,418865,27,Hauts-Bassins,1753377,36,aucun,rejeté
+810,51,F,marié,0,enseignant,474646,22,Hauts-Bassins,1951728,3,bon,approuvé
+921,65,M,célibataire,0,artisan,312654,13,Hauts-Bassins,1564475,6,mauvais,rejeté
+513,47,F,marié,3,fonctionnaire,512566,24,Hauts-Bassins,391609,36,bon,rejeté
+395,32,F,célibataire,8,sans_emploi,42527,0,Sahel,720909,18,bon,rejeté
+608,25,F,marié,1,sans_emploi,40993,0,Nord,1774917,18,bon,approuvé
+294,57,M,célibataire,8,commerçant,127265,12,Boucle du Mouhoun,677835,18,bon,rejeté
+293,53,M,divorcé,3,fonctionnaire,302008,11,Centre,864038,3,bon,approuvé
+640,65,F,célibataire,2,fonctionnaire,300737,7,Centre,1333531,24,aucun,approuvé
+580,34,M,divorcé,8,étudiant,74971,0,Nord,886002,36,aucun,rejeté
+619,41,M,célibataire,3,artisan,299427,3,Est,1731699,18,aucun,rejeté
+263,30,M,divorcé,3,agriculteur,99500,15,Centre-Ouest,1733523,24,bon,approuvé
+529,41,M,veuf,0,agriculteur,355508,17,Centre-Ouest,1029111,6,aucun,rejeté
+278,34,M,marié,4,artisan,162258,18,Centre,1484904,36,bon,rejeté
+396,28,M,divorcé,0,agriculteur,542175,7,Boucle du Mouhoun,518535,36,bon,rejeté
+322,51,M,divorcé,3,étudiant,47962,0,Nord,1053346,36,mauvais,approuvé
+282,22,F,célibataire,8,agriculteur,,18,Centre,1882858,6,bon,rejeté
+384,42,F,marié,2,étudiant,28080,0,Boucle du Mouhoun,166841,24,aucun,rejeté
+96,63,M,veuf,3,enseignant,539301,21,Centre-Ouest,818734,6,bon,approuvé
+702,59,M,célibataire,6,agriculteur,417721,10,Centre,1310555,12,aucun,rejeté
+101,54,M,marié,1,artisan,525417,3,Centre,605941,6,mauvais,rejeté
+248,43,M,célibataire,4,agriculteur,57087,9,Sahel,1950341,36,bon,approuvé
+584,45,F,marié,5,propriétaire_petite_entreprise,667503,19,Nord,1715701,18,aucun,rejeté
+27,50,F,divorcé,4,propriétaire_petite_entreprise,745696,2,Hauts-Bassins,739944,6,aucun,approuvé
+149,45,F,divorcé,4,artisan,184832,7,Est,111367,18,aucun,approuvé
+159,40,M,célibataire,0,étudiant,60957,0,Centre-Ouest,689430,3,bon,rejeté
+417,19,M,divorcé,5,étudiant,24887,0,Boucle du Mouhoun,226298,3,bon,approuvé
+548,41,M,divorcé,1,étudiant,22779,0,Centre,1230403,18,bon,approuvé
+33,59,F,divorcé,0,étudiant,37214,0,Sahel,78251,6,bon,rejeté
+484,57,M,marié,6,commerçant,479727,19,Sahel,1854933,12,aucun,rejeté
+972,51,F,veuf,5,propriétaire_petite_entreprise,375983,6,Hauts-Bassins,1165059,6,bon,approuvé
+304,45,F,divorcé,4,étudiant,38601,0,Est,710327,6,mauvais,rejeté
+67,31,F,veuf,6,étudiant,68513,0,Nord,1465833,36,bon,rejeté
+742,24,F,veuf,5,sans_emploi,27818,0,Boucle du Mouhoun,375145,6,mauvais,rejeté
+326,34,F,célibataire,4,sans_emploi,21989,0,Nord,313031,12,bon,approuvé
+509,57,M,célibataire,8,commerçant,523178,3,Centre-Ouest,605839,36,aucun,approuvé
+69,34,M,marié,8,agriculteur,698956,19,Centre,1730963,6,aucun,approuvé
+441,19,M,divorcé,3,étudiant,33210,0,Hauts-Bassins,1124846,3,aucun,rejeté
+502,58,M,divorcé,4,agriculteur,766499,4,Centre,1153546,3,mauvais,rejeté
+847,24,M,veuf,8,autre,394182,14,Est,1521783,12,mauvais,rejeté
+464,65,F,marié,6,sans_emploi,22837,0,Centre-Ouest,1237018,6,aucun,rejeté
+277,64,M,veuf,1,propriétaire_petite_entreprise,108487,13,Centre-Ouest,285062,12,bon,rejeté
+929,35,F,veuf,1,sans_emploi,29610,0,Centre-Ouest,1731518,6,bon,rejeté

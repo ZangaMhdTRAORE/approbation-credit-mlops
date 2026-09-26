@@ -1,0 +1,25 @@
+* Loan Approval MLOps — Day 3
+
+Matériel hands-on pour :
+
+#+BEGIN_EXAMPLE
+Tests
+→ CI
+→ Quality Gates
+→ Docker
+→ Cloud Deployment
+#+END_EXAMPLE
+
+Commencer par :
+
+#+BEGIN_SRC bash
+pip install -r requirements.txt
+python -m src.train
+pytest -v
+#+END_SRC
+
+Support détaillé :
+
+#+BEGIN_EXAMPLE
+DAY3_HANDS_ON.org
+#+END_EXAMPLE
